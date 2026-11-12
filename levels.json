@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "levels": [
     {
       "id": "garden-007",
@@ -1221,6 +1221,351 @@
           "y": 0.628,
           "r": 0.035,
           "hint": "Compare the little chest's padlock."
+        }
+      ]
+    },
+    {
+      "id": "case-005-01",
+      "groupId": "group-005",
+      "groupName": "The Missing Festival Seal",
+      "a": "group-005/case-005-01/a.png",
+      "b": "group-005/case-005-01/b.png",
+      "diffs": [
+        {
+          "x": 0.378,
+          "y": 0.536,
+          "r": 0.035,
+          "hint": "Inspect the carry-on handle's mounting plate."
+        },
+        {
+          "x": 0.728,
+          "y": 0.44,
+          "r": 0.035,
+          "hint": "Compare the strap fastening on the navy case."
+        },
+        {
+          "x": 0.894,
+          "y": 0.545,
+          "r": 0.04,
+          "hint": "Count the dark bands on the maintenance cone."
+        },
+        {
+          "x": 0.126,
+          "y": 0.386,
+          "r": 0.035,
+          "hint": "Study the top of the queue post."
+        }
+      ]
+    },
+    {
+      "id": "case-005-02",
+      "groupId": "group-005",
+      "groupName": "The Missing Festival Seal",
+      "a": "group-005/case-005-02/a.png",
+      "b": "group-005/case-005-02/b.png",
+      "diffs": [
+        {
+          "x": 0.4,
+          "y": 0.496,
+          "r": 0.035,
+          "hint": "Compare the case's right strap buckle."
+        },
+        {
+          "x": 0.148,
+          "y": 0.239,
+          "r": 0.04,
+          "hint": "Inspect the purple ribbon's knot."
+        },
+        {
+          "x": 0.59,
+          "y": 0.237,
+          "r": 0.04,
+          "hint": "Look at the signal lamp's cap."
+        },
+        {
+          "x": 0.74,
+          "y": 0.716,
+          "r": 0.035,
+          "hint": "Check the fastener on the yellow bag."
+        },
+        {
+          "x": 0.794,
+          "y": 0.612,
+          "r": 0.035,
+          "hint": "Compare the bag's two eyelets."
+        },
+        {
+          "x": 0.781,
+          "y": 0.503,
+          "r": 0.035,
+          "hint": "Trace the near armrest's lower end."
+        }
+      ]
+    },
+    {
+      "id": "case-005-03",
+      "groupId": "group-005",
+      "groupName": "The Missing Festival Seal",
+      "a": "group-005/case-005-03/a.png",
+      "b": "group-005/case-005-03/b.png",
+      "diffs": [
+        {
+          "x": 0.91,
+          "y": 0.337,
+          "r": 0.04,
+          "hint": "Count the hanging prize bells."
+        },
+        {
+          "x": 0.795,
+          "y": 0.621,
+          "r": 0.04,
+          "hint": "Compare the points on the booth ornament."
+        },
+        {
+          "x": 0.462,
+          "y": 0.737,
+          "r": 0.04,
+          "hint": "Study the toy car's left headlamp."
+        },
+        {
+          "x": 0.437,
+          "y": 0.56,
+          "r": 0.04,
+          "hint": "Count the steering wheel's spokes."
+        },
+        {
+          "x": 0.477,
+          "y": 0.145,
+          "r": 0.04,
+          "hint": "Compare the middle pennant's outline."
+        },
+        {
+          "x": 0.078,
+          "y": 0.322,
+          "r": 0.035,
+          "hint": "Look just beneath the balloon's knot."
+        }
+      ]
+    },
+    {
+      "id": "case-005-04",
+      "groupId": "group-005",
+      "groupName": "The Missing Festival Seal",
+      "a": "group-005/case-005-04/a.png",
+      "b": "group-005/case-005-04/b.png",
+      "diffs": [
+        {
+          "x": 0.609,
+          "y": 0.387,
+          "r": 0.035,
+          "hint": "Inspect the jack handle's grip."
+        },
+        {
+          "x": 0.713,
+          "y": 0.482,
+          "r": 0.04,
+          "hint": "Count the tool cabinet's drawer pulls."
+        },
+        {
+          "x": 0.161,
+          "y": 0.328,
+          "r": 0.035,
+          "hint": "Study the van door's chrome fitting."
+        }
+      ]
+    },
+    {
+      "id": "case-005-05",
+      "groupId": "group-005",
+      "groupName": "The Missing Festival Seal",
+      "a": "group-005/case-005-05/a.png",
+      "b": "group-005/case-005-05/b.png",
+      "diffs": [
+        {
+          "x": 0.11,
+          "y": 0.351,
+          "r": 0.035,
+          "hint": "Zoom in on the paper dispenser's lock."
+        },
+        {
+          "x": 0.827,
+          "y": 0.231,
+          "r": 0.035,
+          "hint": "Compare the two coat-hook tips."
+        },
+        {
+          "x": 0.376,
+          "y": 0.561,
+          "r": 0.035,
+          "hint": "Inspect the soap dispenser's button."
+        }
+      ]
+    },
+    {
+      "id": "case-005-06",
+      "groupId": "group-005",
+      "groupName": "The Missing Festival Seal",
+      "a": "group-005/case-005-06/a.png",
+      "b": "group-005/case-005-06/b.png",
+      "diffs": [
+        {
+          "x": 0.18,
+          "y": 0.484,
+          "r": 0.04,
+          "hint": "Check the cart wheel's central cover."
+        },
+        {
+          "x": 0.471,
+          "y": 0.463,
+          "r": 0.045,
+          "hint": "Compare the ribbon's tie above the crate."
+        },
+        {
+          "x": 0.53,
+          "y": 0.588,
+          "r": 0.035,
+          "hint": "Inspect the crate latch's moving tab."
+        },
+        {
+          "x": 0.88,
+          "y": 0.778,
+          "r": 0.035,
+          "hint": "Study the glove cuff's fastening."
+        },
+        {
+          "x": 0.929,
+          "y": 0.454,
+          "r": 0.035,
+          "hint": "Count the reflective bands on the cone."
+        },
+        {
+          "x": 0.767,
+          "y": 0.21,
+          "r": 0.045,
+          "hint": "Trace the hanging gate hook."
+        },
+        {
+          "x": 0.168,
+          "y": 0.052,
+          "r": 0.045,
+          "hint": "Compare the left gatepost's finial."
+        }
+      ]
+    },
+    {
+      "id": "case-005-07",
+      "groupId": "group-005",
+      "groupName": "The Missing Festival Seal",
+      "a": "group-005/case-005-07/a.png",
+      "b": "group-005/case-005-07/b.png",
+      "diffs": [
+        {
+          "x": 0.162,
+          "y": 0.438,
+          "r": 0.035,
+          "hint": "Look beneath the signal bell's rim."
+        },
+        {
+          "x": 0.594,
+          "y": 0.196,
+          "r": 0.035,
+          "hint": "Count the white bands around the lifebuoy."
+        },
+        {
+          "x": 0.802,
+          "y": 0.561,
+          "r": 0.035,
+          "hint": "Inspect the equipment locker's pull."
+        },
+        {
+          "x": 0.28,
+          "y": 0.58,
+          "r": 0.04,
+          "hint": "Check the cleat's left horn."
+        }
+      ]
+    },
+    {
+      "id": "case-005-08",
+      "groupId": "group-005",
+      "groupName": "The Missing Festival Seal",
+      "a": "group-005/case-005-08/a.png",
+      "b": "group-005/case-005-08/b.png",
+      "diffs": [
+        {
+          "x": 0.76,
+          "y": 0.135,
+          "r": 0.035,
+          "hint": "Zoom in on the plate's upper-right fixing."
+        },
+        {
+          "x": 0.888,
+          "y": 0.273,
+          "r": 0.035,
+          "hint": "Count the apron bib's brass buttons."
+        },
+        {
+          "x": 0.54,
+          "y": 0.501,
+          "r": 0.04,
+          "hint": "Compare the press lever's wooden grip."
+        },
+        {
+          "x": 0.827,
+          "y": 0.89,
+          "r": 0.035,
+          "hint": "Trace the cut end of the crate ribbon."
+        }
+      ]
+    },
+    {
+      "id": "case-005-09",
+      "groupId": "group-005",
+      "groupName": "The Missing Festival Seal",
+      "a": "group-005/case-005-09/a.png",
+      "b": "group-005/case-005-09/b.png",
+      "diffs": [
+        {
+          "x": 0.457,
+          "y": 0.374,
+          "r": 0.035,
+          "hint": "Compare the recovered seal's wooden grip."
+        },
+        {
+          "x": 0.211,
+          "y": 0.231,
+          "r": 0.035,
+          "hint": "Inspect the straw hat's purple band."
+        },
+        {
+          "x": 0.31,
+          "y": 0.203,
+          "r": 0.035,
+          "hint": "Look at the coat stand's side knob."
+        },
+        {
+          "x": 0.274,
+          "y": 0.317,
+          "r": 0.04,
+          "hint": "Trace the umbrella's wooden handle."
+        },
+        {
+          "x": 0.832,
+          "y": 0.68,
+          "r": 0.035,
+          "hint": "Compare the cream rosette's left ribbon tail."
+        },
+        {
+          "x": 0.565,
+          "y": 0.81,
+          "r": 0.035,
+          "hint": "Inspect the travel trunk's lockplate."
+        },
+        {
+          "x": 0.708,
+          "y": 0.191,
+          "r": 0.04,
+          "hint": "Count the locker door's vent openings."
         }
       ]
     }
