@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "levels": [
     {
       "id": "garden-007",
@@ -642,6 +642,456 @@
           "y": 0.79,
           "r": 0.035,
           "hint": "Inspect the middle of the cloth bookmark."
+        }
+      ]
+    },
+    {
+      "id": "case-003-01",
+      "groupId": "group-003",
+      "groupName": "The Postmaster's Detour",
+      "a": "group-003/case-003-01/a.png",
+      "b": "group-003/case-003-01/b.png",
+      "diffs": [
+        {
+          "x": 0.199,
+          "y": 0.593,
+          "r": 0.035,
+          "hint": "Compare the postmaster's satchel buckle."
+        },
+        {
+          "x": 0.647,
+          "y": 0.769,
+          "r": 0.035,
+          "hint": "Count the key's working points."
+        },
+        {
+          "x": 0.319,
+          "y": 0.332,
+          "r": 0.035,
+          "hint": "Inspect the ink bottle's neck."
+        },
+        {
+          "x": 0.489,
+          "y": 0.39,
+          "r": 0.035,
+          "hint": "Look at the sorting stamp's grip."
+        },
+        {
+          "x": 0.733,
+          "y": 0.397,
+          "r": 0.035,
+          "hint": "Study the desk bell's button."
+        },
+        {
+          "x": 0.881,
+          "y": 0.395,
+          "r": 0.035,
+          "hint": "Follow the mug's rim."
+        },
+        {
+          "x": 0.33,
+          "y": 0.853,
+          "r": 0.035,
+          "hint": "Check the front of the folded linen."
+        }
+      ]
+    },
+    {
+      "id": "case-003-02",
+      "groupId": "group-003",
+      "groupName": "The Postmaster's Detour",
+      "a": "group-003/case-003-02/a.png",
+      "b": "group-003/case-003-02/b.png",
+      "diffs": [
+        {
+          "x": 0.202,
+          "y": 0.54,
+          "r": 0.035,
+          "hint": "Compare the toolbox's central catch."
+        },
+        {
+          "x": 0.397,
+          "y": 0.535,
+          "r": 0.04,
+          "hint": "Inspect the oil bottle's finish."
+        },
+        {
+          "x": 0.705,
+          "y": 0.484,
+          "r": 0.04,
+          "hint": "Study the pump's wooden grip."
+        },
+        {
+          "x": 0.884,
+          "y": 0.5,
+          "r": 0.045,
+          "hint": "Check the flowerpot's raised pattern."
+        },
+        {
+          "x": 0.65,
+          "y": 0.765,
+          "r": 0.04,
+          "hint": "Count the keys on the ring."
+        },
+        {
+          "x": 0.55,
+          "y": 0.538,
+          "r": 0.035,
+          "hint": "Inspect the middle of the striped rag."
+        },
+        {
+          "x": 0.38,
+          "y": 0.612,
+          "r": 0.035,
+          "hint": "Look beside the bicycle bell."
+        }
+      ]
+    },
+    {
+      "id": "case-003-03",
+      "groupId": "group-003",
+      "groupName": "The Postmaster's Detour",
+      "a": "group-003/case-003-03/a.png",
+      "b": "group-003/case-003-03/b.png",
+      "diffs": [
+        {
+          "x": 0.535,
+          "y": 0.66,
+          "r": 0.035,
+          "hint": "Count the biscuit's little holes."
+        },
+        {
+          "x": 0.753,
+          "y": 0.382,
+          "r": 0.035,
+          "hint": "Check the sugar bowl's lid."
+        },
+        {
+          "x": 0.219,
+          "y": 0.543,
+          "r": 0.04,
+          "hint": "Inspect the front of the bread basket."
+        },
+        {
+          "x": 0.774,
+          "y": 0.83,
+          "r": 0.045,
+          "hint": "Compare the towel's woven stripes."
+        }
+      ]
+    },
+    {
+      "id": "case-003-04",
+      "groupId": "group-003",
+      "groupName": "The Postmaster's Detour",
+      "a": "group-003/case-003-04/a.png",
+      "b": "group-003/case-003-04/b.png",
+      "diffs": [
+        {
+          "x": 0.813,
+          "y": 0.715,
+          "r": 0.035,
+          "hint": "Compare the notebook's clasp."
+        },
+        {
+          "x": 0.613,
+          "y": 0.457,
+          "r": 0.035,
+          "hint": "Inspect the bottle's opening."
+        },
+        {
+          "x": 0.363,
+          "y": 0.479,
+          "r": 0.035,
+          "hint": "Follow the mug's front rim."
+        },
+        {
+          "x": 0.516,
+          "y": 0.838,
+          "r": 0.035,
+          "hint": "Look beside the compass."
+        },
+        {
+          "x": 0.233,
+          "y": 0.788,
+          "r": 0.035,
+          "hint": "Check the glove cuff's fastening."
+        }
+      ]
+    },
+    {
+      "id": "case-003-05",
+      "groupId": "group-003",
+      "groupName": "The Postmaster's Detour",
+      "a": "group-003/case-003-05/a.png",
+      "b": "group-003/case-003-05/b.png",
+      "diffs": [
+        {
+          "x": 0.814,
+          "y": 0.655,
+          "r": 0.035,
+          "hint": "Inspect the small wire clip."
+        },
+        {
+          "x": 0.23,
+          "y": 0.415,
+          "r": 0.035,
+          "hint": "Follow the lamp's hanging chain."
+        },
+        {
+          "x": 0.664,
+          "y": 0.349,
+          "r": 0.035,
+          "hint": "Check the landscape frame's upper corner."
+        },
+        {
+          "x": 0.589,
+          "y": 0.731,
+          "r": 0.04,
+          "hint": "Count the bookmark's woven bands."
+        }
+      ]
+    },
+    {
+      "id": "case-003-06",
+      "groupId": "group-003",
+      "groupName": "The Postmaster's Detour",
+      "a": "group-003/case-003-06/a.png",
+      "b": "group-003/case-003-06/b.png",
+      "diffs": [
+        {
+          "x": 0.537,
+          "y": 0.709,
+          "r": 0.035,
+          "hint": "Look between the pruning-shear handles."
+        },
+        {
+          "x": 0.709,
+          "y": 0.289,
+          "r": 0.04,
+          "hint": "Count the plant labels in the jar."
+        },
+        {
+          "x": 0.57,
+          "y": 0.32,
+          "r": 0.04,
+          "hint": "Inspect the terracotta pot's decoration."
+        },
+        {
+          "x": 0.222,
+          "y": 0.372,
+          "r": 0.045,
+          "hint": "Compare the watering can's finish."
+        }
+      ]
+    },
+    {
+      "id": "case-003-07",
+      "groupId": "group-003",
+      "groupName": "The Postmaster's Detour",
+      "a": "group-003/case-003-07/a.png",
+      "b": "group-003/case-003-07/b.png",
+      "diffs": [
+        {
+          "x": 0.474,
+          "y": 0.269,
+          "r": 0.035,
+          "hint": "Inspect the tall bottle's neck."
+        },
+        {
+          "x": 0.467,
+          "y": 0.687,
+          "r": 0.035,
+          "hint": "Compare the notebook's buckle."
+        },
+        {
+          "x": 0.698,
+          "y": 0.675,
+          "r": 0.035,
+          "hint": "Count the biscuit's little holes."
+        },
+        {
+          "x": 0.82,
+          "y": 0.818,
+          "r": 0.035,
+          "hint": "Study the brass key's working end."
+        },
+        {
+          "x": 0.687,
+          "y": 0.531,
+          "r": 0.04,
+          "hint": "Compare the mug's handle."
+        },
+        {
+          "x": 0.724,
+          "y": 0.771,
+          "r": 0.035,
+          "hint": "Inspect the end of the honey dipper."
+        },
+        {
+          "x": 0.804,
+          "y": 0.436,
+          "r": 0.035,
+          "hint": "Look on top of the gingham lid."
+        }
+      ]
+    },
+    {
+      "id": "case-003-08",
+      "groupId": "group-003",
+      "groupName": "The Postmaster's Detour",
+      "a": "group-003/case-003-08/a.png",
+      "b": "group-003/case-003-08/b.png",
+      "diffs": [
+        {
+          "x": 0.587,
+          "y": 0.421,
+          "r": 0.04,
+          "hint": "Compare the flask's finish."
+        },
+        {
+          "x": 0.395,
+          "y": 0.443,
+          "r": 0.035,
+          "hint": "Check the travel case's right buckle."
+        },
+        {
+          "x": 0.571,
+          "y": 0.608,
+          "r": 0.035,
+          "hint": "Look beside the compass."
+        },
+        {
+          "x": 0.904,
+          "y": 0.675,
+          "r": 0.035,
+          "hint": "Trace the luggage tag's upper edge."
+        },
+        {
+          "x": 0.792,
+          "y": 0.45,
+          "r": 0.035,
+          "hint": "Study the little bird's beak."
+        },
+        {
+          "x": 0.748,
+          "y": 0.718,
+          "r": 0.035,
+          "hint": "Count the biscuit's indentations."
+        },
+        {
+          "x": 0.7,
+          "y": 0.427,
+          "r": 0.035,
+          "hint": "Inspect the small bottle's opening."
+        }
+      ]
+    },
+    {
+      "id": "case-003-09",
+      "groupId": "group-003",
+      "groupName": "The Postmaster's Detour",
+      "a": "group-003/case-003-09/a.png",
+      "b": "group-003/case-003-09/b.png",
+      "diffs": [
+        {
+          "x": 0.137,
+          "y": 0.548,
+          "r": 0.045,
+          "hint": "Compare the watering can's finish."
+        },
+        {
+          "x": 0.511,
+          "y": 0.41,
+          "r": 0.04,
+          "hint": "Inspect the terracotta pot's decoration."
+        },
+        {
+          "x": 0.644,
+          "y": 0.355,
+          "r": 0.04,
+          "hint": "Count the labels in the glass jar."
+        },
+        {
+          "x": 0.883,
+          "y": 0.708,
+          "r": 0.035,
+          "hint": "Check the glove cuff's fastening."
+        },
+        {
+          "x": 0.265,
+          "y": 0.709,
+          "r": 0.045,
+          "hint": "Count the hand fork's points."
+        },
+        {
+          "x": 0.545,
+          "y": 0.562,
+          "r": 0.035,
+          "hint": "Study the biscuit on its little plate."
+        },
+        {
+          "x": 0.29,
+          "y": 0.364,
+          "r": 0.04,
+          "hint": "Compare the basket liner's tie."
+        },
+        {
+          "x": 0.832,
+          "y": 0.33,
+          "r": 0.035,
+          "hint": "Inspect the clear bottle's neck."
+        }
+      ]
+    },
+    {
+      "id": "case-003-10",
+      "groupId": "group-003",
+      "groupName": "The Postmaster's Detour",
+      "a": "group-003/case-003-10/a.png",
+      "b": "group-003/case-003-10/b.png",
+      "diffs": [
+        {
+          "x": 0.209,
+          "y": 0.408,
+          "r": 0.035,
+          "hint": "Check the postmaster's satchel buckle."
+        },
+        {
+          "x": 0.484,
+          "y": 0.716,
+          "r": 0.035,
+          "hint": "Count the biscuit's little holes."
+        },
+        {
+          "x": 0.69,
+          "y": 0.804,
+          "r": 0.035,
+          "hint": "Study the key's working points."
+        },
+        {
+          "x": 0.777,
+          "y": 0.395,
+          "r": 0.04,
+          "hint": "Compare the picnic basket's tie."
+        },
+        {
+          "x": 0.898,
+          "y": 0.368,
+          "r": 0.035,
+          "hint": "Look at the bottle's opening."
+        },
+        {
+          "x": 0.569,
+          "y": 0.407,
+          "r": 0.035,
+          "hint": "Inspect the top of the hand bell."
+        },
+        {
+          "x": 0.886,
+          "y": 0.699,
+          "r": 0.035,
+          "hint": "Study the center of the cloth bookmark."
         }
       ]
     }
