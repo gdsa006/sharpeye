@@ -8,8 +8,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
   import:
@@ -30,12 +28,3 @@ jobs:
             git commit -m "Import uploaded detective case packs"
             git push
           fi
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-      - name: Upload case files
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: .
-      - name: Deploy updated case files
-        id: deployment
-        uses: actions/deploy-pages@v4
