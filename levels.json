@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "levels": [
     {
       "id": "garden-007",
@@ -1092,6 +1092,135 @@
           "y": 0.699,
           "r": 0.035,
           "hint": "Study the center of the cloth bookmark."
+        }
+      ]
+    },
+    {
+      "id": "case-004-01",
+      "groupId": "group-004",
+      "groupName": "The Midnight Signal",
+      "a": "group-004/case-004-01/a.png",
+      "b": "group-004/case-004-01/b.png",
+      "diffs": [
+        {
+          "x": 0.206,
+          "y": 0.264,
+          "r": 0.035,
+          "hint": "Look at the lantern's topmost fitting."
+        },
+        {
+          "x": 0.423,
+          "y": 0.613,
+          "r": 0.035,
+          "hint": "Compare the notebook's fastening."
+        },
+        {
+          "x": 0.532,
+          "y": 0.389,
+          "r": 0.035,
+          "hint": "Inspect the little bottle's opening."
+        },
+        {
+          "x": 0.774,
+          "y": 0.516,
+          "r": 0.035,
+          "hint": "Trace the mug's handle."
+        },
+        {
+          "x": 0.807,
+          "y": 0.682,
+          "r": 0.035,
+          "hint": "Count the shells in the wooden tray."
+        },
+        {
+          "x": 0.654,
+          "y": 0.826,
+          "r": 0.04,
+          "hint": "Check beside the compass."
+        }
+      ]
+    },
+    {
+      "id": "case-004-02",
+      "groupId": "group-004",
+      "groupName": "The Midnight Signal",
+      "a": "group-004/case-004-02/a.png",
+      "b": "group-004/case-004-02/b.png",
+      "diffs": [
+        {
+          "x": 0.144,
+          "y": 0.596,
+          "r": 0.045,
+          "hint": "Compare the watering can's finish."
+        },
+        {
+          "x": 0.336,
+          "y": 0.543,
+          "r": 0.04,
+          "hint": "Study the fern pot's raised decoration."
+        },
+        {
+          "x": 0.574,
+          "y": 0.649,
+          "r": 0.035,
+          "hint": "Compare the fastenings on the folded apron."
+        },
+        {
+          "x": 0.75,
+          "y": 0.394,
+          "r": 0.04,
+          "hint": "Count the wooden markers in the jar."
+        },
+        {
+          "x": 0.852,
+          "y": 0.683,
+          "r": 0.035,
+          "hint": "Inspect the glove cuff's fastening."
+        },
+        {
+          "x": 0.285,
+          "y": 0.825,
+          "r": 0.045,
+          "hint": "Count the hand fork's points."
+        },
+        {
+          "x": 0.559,
+          "y": 0.549,
+          "r": 0.035,
+          "hint": "Look between the pruning-shear handles."
+        }
+      ]
+    },
+    {
+      "id": "case-004-03",
+      "groupId": "group-004",
+      "groupName": "The Midnight Signal",
+      "a": "group-004/case-004-03/a.png",
+      "b": "group-004/case-004-03/b.png",
+      "diffs": [
+        {
+          "x": 0.28,
+          "y": 0.449,
+          "r": 0.035,
+          "hint": "Check the sailboat frame's upper corner."
+        },
+        {
+          "x": 0.251,
+          "y": 0.782,
+          "r": 0.035,
+          "hint": "Count the points in the stitched motif."
+        },
+        {
+          "x": 0.697,
+          "y": 0.801,
+          "r": 0.035,
+          "hint": "Inspect the brass key's working end."
+        },
+        {
+          "x": 0.762,
+          "y": 0.628,
+          "r": 0.035,
+          "hint": "Compare the little chest's padlock."
         }
       ]
     }
