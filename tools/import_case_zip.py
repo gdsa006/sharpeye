@@ -134,7 +134,10 @@ def main() -> int:
     imported_count = 0
     for archive_path in archives:
         digest = hashlib.sha256(archive_path.read_bytes()).hexdigest()
-        if digest in processed:
+        previous_import = processed.get(digest)
+        previous_group = (previous_import.get("groupId")
+                          if isinstance(previous_import, dict) else None)
+        if digest in processed and previous_group in known_groups:
             print(f"Already imported: {archive_path.name}")
             archive_path.unlink()
             continue
