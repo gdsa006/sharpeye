@@ -42,22 +42,22 @@ def validate_pack(archive: zipfile.ZipFile, filename: str, known_ids: set[str],
         fail(f"{filename}: levels.json is not valid UTF-8 JSON: {exc}")
 
     levels = source.get("levels") if isinstance(source, dict) else None
-    if not isinstance(levels, list) or len(levels) != 7:
-        fail(f"{filename}: expected exactly seven level records.")
+    if not isinstance(levels, list) or not 3 <= len(levels) <= 10:
+        fail(f"{filename}: expected between 3 and 10 level records.")
     if any(not isinstance(level, dict) for level in levels):
         fail(f"{filename}: each level record must be a JSON object.")
     raw_group_ids = [level.get("groupId") for level in levels]
     raw_group_names = [level.get("groupName") for level in levels]
     if any(not isinstance(value, str) for value in raw_group_ids):
-        fail(f"{filename}: all seven records must share one non-empty groupId.")
+        fail(f"{filename}: all records must share one non-empty groupId.")
     if any(not isinstance(value, str) for value in raw_group_names):
-        fail(f"{filename}: all seven records must share one non-empty groupName.")
+        fail(f"{filename}: all records must share one non-empty groupName.")
     group_ids = set(raw_group_ids)
     group_names = {value.strip() for value in raw_group_names}
     if len(group_ids) != 1 or not next(iter(group_ids)).strip():
-        fail(f"{filename}: all seven records must share one non-empty groupId.")
+        fail(f"{filename}: all records must share one non-empty groupId.")
     if len(group_names) != 1 or not next(iter(group_names)):
-        fail(f"{filename}: all seven records must share one non-empty groupName.")
+        fail(f"{filename}: all records must share one non-empty groupName.")
     group_id = next(iter(group_ids))
     if group_id in known_groups:
         fail(f"{filename}: {group_id} already exists in the published manifest.")
@@ -72,8 +72,8 @@ def validate_pack(archive: zipfile.ZipFile, filename: str, known_ids: set[str],
         if level_id in known_ids:
             fail(f"{filename}: duplicate level id {level_id}.")
         diffs = level.get("diffs")
-        if not isinstance(diffs, list) or len(diffs) != 5:
-            fail(f"{filename}: {level_id} must contain exactly five differences.")
+        if not isinstance(diffs, list) or not 3 <= len(diffs) <= 8:
+            fail(f"{filename}: {level_id} must contain between 3 and 8 differences.")
         for diff in diffs:
             if not isinstance(diff, dict):
                 fail(f"{filename}: each difference in {level_id} must be an object.")

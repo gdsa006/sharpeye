@@ -4,11 +4,11 @@
 
 Upload the ZIP from Gemini as-is into this repository's `uploads/` folder, then commit it. Do not unzip it or edit `levels.json`.
 
-The included GitHub Action automatically validates the ZIP, extracts its images, adds the seven levels to the root `levels.json`, and increments the manifest version. After processing, it removes the uploaded ZIP from the published files. GitHub Pages then publishes the updated manifest and images. Sharp Eye checks for new cases each time it opens and adds them to Detective Cases; players can also tap Sync.
+The included GitHub Action automatically validates the ZIP, extracts its images, adds every level to the root `levels.json`, and increments the manifest version. Each pack may contain 3–10 levels, and each level may contain 3–8 differences with one text hint per difference. After processing, the action removes the uploaded ZIP from the published files. GitHub Pages then publishes the updated manifest and images. Sharp Eye checks for new cases each time it opens and adds them to Detective Cases; players can also tap Sync.
 
 When setting up the repository, keep `.github/workflows/import-case-zips.yml` and `.github/workflows/deploy-pages.yml` in place. Allow GitHub Actions to write to repository contents. Set the Pages publishing source to **GitHub Actions** so the app can read `levels.json` and the group image folders.
 
-The ZIP must contain `levels.json` at its root, with no wrapper folder, exactly seven levels in one unique group, five differences with text hints per level, and all referenced image files inside that group's folder. The archive format is described in `GEMINI_THRILLER_CASE_PACK_PROMPT.md` in the app repository.
+The ZIP must contain `levels.json` at its root, with no wrapper folder, 3–10 levels in one unique group, 3–8 differences with text hints per level, and all referenced image files inside that group's folder. The game randomly locks 2–3 levels per set behind separate rewarded ads after download; the remaining levels are open. The archive format is described in `GEMINI_THRILLER_CASE_PACK_PROMPT.md` in the app repository.
 
 If the ZIP is invalid or reuses a published group ID or level ID, the action fails without changing the published manifest. Check the repository's Actions tab for the reason, correct the archive, then upload the corrected ZIP.
 
