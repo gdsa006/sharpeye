@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 UPLOADS = ROOT / "uploads"
 MANIFEST = ROOT / "levels.json"
 IMPORTED = ROOT / ".imported-packs.json"
+CONTROLS = ROOT / "case-controls.json"
 
 
 def fail(message: str) -> None:
@@ -119,6 +120,11 @@ def main() -> int:
     processed = json.loads(IMPORTED.read_text(encoding="utf-8")) if IMPORTED.exists() else {}
     if not isinstance(processed, dict):
         fail(".imported-packs.json must be a JSON object.")
+    controls = json.loads(CONTROLS.read_text(encoding="utf-8")) if CONTROLS.exists() else {
+        "version": 1, "disabledGroups": [], "deletedGroups": []
+    }
+    if not isinstance(controls, dict):
+        fail("case-controls.json must be a JSON object.")
 
     archives = sorted(UPLOADS.glob("*.zip"))
     if not archives:
@@ -148,6 +154,13 @@ def main() -> int:
         manifest["version"] = int(manifest.get("version", 0)) + 1
         processed[digest] = {"file": archive_path.name, "groupId": group_id}
         archive_path.unlink()
+        controls["disabledGroups"] = [
+            item for item in controls.get("disabledGroups", []) if item != group_id
+        ]
+        controls["deletedGroups"] = [
+            item for item in controls.get("deletedGroups", []) if item != group_id
+        ]
+        controls["version"] = int(controls.get("version", 0)) + 1
         known_groups.add(group_id)
         imported_count += 1
         print(f"Imported {archive_path.name}: {group_name} ({group_id})")
@@ -156,6 +169,8 @@ def main() -> int:
         MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
                             encoding="utf-8")
         IMPORTED.write_text(json.dumps(processed, ensure_ascii=False, indent=2) + "\n",
+                            encoding="utf-8")
+        CONTROLS.write_text(json.dumps(controls, ensure_ascii=False, indent=2) + "\n",
                             encoding="utf-8")
     print(f"Imported {imported_count} new case pack(s).")
     return 0

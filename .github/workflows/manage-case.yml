@@ -1,0 +1,45 @@
+name: Manage detective case
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: Choose what to do with the case
+        type: choice
+        required: true
+        options:
+          - disable
+          - enable
+          - delete
+      group_id:
+        description: Case group ID, for example group-002
+        type: string
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  manage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out case files
+        uses: actions/checkout@v4
+      - name: Apply case action
+        env:
+          CASE_ACTION: ${{ inputs.action }}
+          CASE_GROUP_ID: ${{ inputs.group_id }}
+        run: python3 tools/manage_case.py "$CASE_ACTION" "$CASE_GROUP_ID"
+      - name: Commit case changes
+        env:
+          CASE_ACTION: ${{ inputs.action }}
+          CASE_GROUP_ID: ${{ inputs.group_id }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add levels.json case-controls.json
+          if [ "$CASE_ACTION" = "delete" ]; then
+            git add -A -- "$CASE_GROUP_ID"
+          fi
+          git commit -m "$CASE_ACTION case $CASE_GROUP_ID"
+          git push
