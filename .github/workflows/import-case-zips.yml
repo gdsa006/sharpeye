@@ -1,0 +1,41 @@
+name: Import uploaded case ZIPs
+
+on:
+  push:
+    paths:
+      - "uploads/*.zip"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out level repository
+        uses: actions/checkout@v4
+      - name: Import ZIP packs and update the public manifest
+        run: python3 tools/import_case_zip.py
+      - name: Publish imported levels
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No generated content to publish."
+          else
+            git commit -m "Import uploaded detective case packs"
+            git push
+          fi
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload case files
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - name: Deploy updated case files
+        id: deployment
+        uses: actions/deploy-pages@v4

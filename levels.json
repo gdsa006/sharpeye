@@ -1,0 +1,271 @@
+{
+  "version": 4,
+  "levels": [
+    {
+      "id": "garden-007",
+      "a": "group-001/garden-007/a.png",
+      "b": "group-001/garden-007/b.png",
+      "diffs": [
+        {
+          "x": 0.243,
+          "y": 0.474,
+          "r": 0.035,
+          "hint": "Study the flowerpot's raised decoration."
+        },
+        {
+          "x": 0.107,
+          "y": 0.677,
+          "r": 0.035,
+          "hint": "Check the fastening on the glove cuff."
+        },
+        {
+          "x": 0.551,
+          "y": 0.227,
+          "r": 0.035,
+          "hint": "Inspect the top of the watering can."
+        },
+        {
+          "x": 0.649,
+          "y": 0.758,
+          "r": 0.035,
+          "hint": "Look between the pruning-shear handles."
+        },
+        {
+          "x": 0.819,
+          "y": 0.291,
+          "r": 0.035,
+          "hint": "Check the tops of the plant labels."
+        }
+      ],
+      "groupId": "group-001"
+    },
+    {
+      "id": "garden-008",
+      "a": "group-001/garden-008/a.png",
+      "b": "group-001/garden-008/b.png",
+      "diffs": [
+        {
+          "x": 0.496,
+          "y": 0.655,
+          "r": 0.035,
+          "hint": "Count the biscuit's small indentations."
+        },
+        {
+          "x": 0.573,
+          "y": 0.111,
+          "r": 0.035,
+          "hint": "Inspect the flour jar's lid."
+        },
+        {
+          "x": 0.475,
+          "y": 0.814,
+          "r": 0.035,
+          "hint": "Check the end of the whisk handle."
+        },
+        {
+          "x": 0.155,
+          "y": 0.583,
+          "r": 0.035,
+          "hint": "Study the rolling pin's left handle."
+        },
+        {
+          "x": 0.876,
+          "y": 0.794,
+          "r": 0.035,
+          "hint": "Look near the towel's lower corner."
+        }
+      ],
+      "groupId": "group-001"
+    },
+    {
+      "id": "garden-009",
+      "a": "group-001/garden-009/a.png",
+      "b": "group-001/garden-009/b.png",
+      "diffs": [
+        {
+          "x": 0.788,
+          "y": 0.385,
+          "r": 0.035,
+          "hint": "Follow the front edge of the mug's rim."
+        },
+        {
+          "x": 0.559,
+          "y": 0.718,
+          "r": 0.045,
+          "hint": "Count the points on the camping cutlery."
+        },
+        {
+          "x": 0.378,
+          "y": 0.449,
+          "r": 0.035,
+          "hint": "Compare the pouch's two fastenings."
+        },
+        {
+          "x": 0.553,
+          "y": 0.163,
+          "r": 0.035,
+          "hint": "Inspect the lantern's topmost detail."
+        },
+        {
+          "x": 0.116,
+          "y": 0.689,
+          "r": 0.035,
+          "hint": "Check the left end of the rope coil."
+        }
+      ],
+      "groupId": "group-001"
+    },
+    {
+      "id": "garden-010",
+      "a": "group-001/garden-010/a.png",
+      "b": "group-001/garden-010/b.png",
+      "diffs": [
+        {
+          "x": 0.393,
+          "y": 0.314,
+          "r": 0.035,
+          "hint": "Inspect the neck of the glass bottle."
+        },
+        {
+          "x": 0.613,
+          "y": 0.435,
+          "r": 0.035,
+          "hint": "Check the frame's upper-right corner."
+        },
+        {
+          "x": 0.32,
+          "y": 0.447,
+          "r": 0.035,
+          "hint": "Follow the smaller sail's outside edge."
+        },
+        {
+          "x": 0.785,
+          "y": 0.521,
+          "r": 0.035,
+          "hint": "Study the basket liner's fastening."
+        },
+        {
+          "x": 0.475,
+          "y": 0.783,
+          "r": 0.035,
+          "hint": "Count what rests inside the dish."
+        }
+      ],
+      "groupId": "group-001"
+    },
+    {
+      "id": "garden-011",
+      "a": "group-001/garden-011/a.png",
+      "b": "group-001/garden-011/b.png",
+      "diffs": [
+        {
+          "x": 0.271,
+          "y": 0.437,
+          "r": 0.035,
+          "hint": "Count the pearl heads above the cushion."
+        },
+        {
+          "x": 0.903,
+          "y": 0.624,
+          "r": 0.035,
+          "hint": "Inspect the rightmost button closely."
+        },
+        {
+          "x": 0.419,
+          "y": 0.417,
+          "r": 0.035,
+          "hint": "Follow the wooden spool's upper edge."
+        },
+        {
+          "x": 0.548,
+          "y": 0.684,
+          "r": 0.035,
+          "hint": "Compare the scissors' finger openings."
+        },
+        {
+          "x": 0.267,
+          "y": 0.762,
+          "r": 0.045,
+          "hint": "Check the small linen swatch in front."
+        }
+      ],
+      "groupId": "group-001"
+    },
+    {
+      "id": "garden-012",
+      "a": "group-001/garden-012/a.png",
+      "b": "group-001/garden-012/b.png",
+      "diffs": [
+        {
+          "x": 0.425,
+          "y": 0.448,
+          "r": 0.035,
+          "hint": "Look at the very top of the bell."
+        },
+        {
+          "x": 0.517,
+          "y": 0.817,
+          "r": 0.04,
+          "hint": "Trace the bookmark's woven pattern."
+        },
+        {
+          "x": 0.794,
+          "y": 0.49,
+          "r": 0.035,
+          "hint": "Study the ceramic bird's beak."
+        },
+        {
+          "x": 0.575,
+          "y": 0.537,
+          "r": 0.035,
+          "hint": "Check the picture frame's lower corner."
+        },
+        {
+          "x": 0.161,
+          "y": 0.544,
+          "r": 0.035,
+          "hint": "Follow the cup's rim on the left."
+        }
+      ],
+      "groupId": "group-001"
+    },
+    {
+      "id": "garden-013",
+      "a": "group-001/garden-013/a.png",
+      "b": "group-001/garden-013/b.png",
+      "diffs": [
+        {
+          "x": 0.743,
+          "y": 0.749,
+          "r": 0.055,
+          "hint": "Count the points on the hand rake."
+        },
+        {
+          "x": 0.093,
+          "y": 0.647,
+          "r": 0.035,
+          "hint": "Inspect the glove's little button."
+        },
+        {
+          "x": 0.482,
+          "y": 0.421,
+          "r": 0.035,
+          "hint": "Follow the pumpkin stem to its tip."
+        },
+        {
+          "x": 0.733,
+          "y": 0.4,
+          "r": 0.035,
+          "hint": "Study the middle of the gingham lid."
+        },
+        {
+          "x": 0.517,
+          "y": 0.221,
+          "r": 0.035,
+          "hint": "Inspect the crate's upper front slat."
+        }
+      ],
+      "groupId": "group-001"
+    }
+  ]
+}

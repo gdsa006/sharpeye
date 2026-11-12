@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#11152f">
+    <title>Sharp Eye | Case Files</title>
+    <style>
+      :root { color-scheme: dark; font-family: system-ui, sans-serif; }
+      body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: radial-gradient(ellipse at top, #303568, #11152f 65%); color: #fff; }
+      main { width: min(540px, calc(100% - 40px)); padding: 32px; border: 1px solid #ffffff24; border-radius: 24px; background: #ffffff0d; box-shadow: 0 24px 80px #0005; }
+      h1 { margin: 0 0 8px; font-size: 30px; }
+      p { color: #c4c8dc; line-height: 1.55; }
+      #status { margin: 22px 0 12px; color: #ffd166; font-weight: 700; }
+      ul { padding-left: 22px; color: #e6e8f3; line-height: 1.8; }
+      code { color: #ffd166; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Sharp Eye Case Files</h1>
+      <p>This site hosts case packs used by the Sharp Eye game. New packs appear here after their ZIP finishes processing.</p>
+      <div id="status">Checking published cases…</div>
+      <ul id="cases"></ul>
+      <p>To add a pack, upload its ZIP to the repository’s <code>uploads/</code> folder.</p>
+    </main>
+    <script>
+      fetch('./levels.json', { cache: 'no-store' })
+        .then(response => {
+          if (!response.ok) throw new Error('Manifest unavailable');
+          return response.json();
+        })
+        .then(manifest => {
+          const groups = new Map();
+          for (const level of manifest.levels || []) {
+            const id = level.groupId || 'case-files';
+            const entry = groups.get(id) || { name: level.groupName || id, count: 0 };
+            entry.count++;
+            groups.set(id, entry);
+          }
+          document.querySelector('#status').textContent = `${groups.size} case set${groups.size === 1 ? '' : 's'} · manifest v${manifest.version}`;
+          const list = document.querySelector('#cases');
+          for (const entry of groups.values()) {
+            const item = document.createElement('li');
+            item.textContent = `${entry.name} · ${entry.count} levels`;
+            list.append(item);
+          }
+        })
+        .catch(() => { document.querySelector('#status').textContent = 'Case manifest is not published yet.'; });
+    </script>
+  </body>
+</html>
