@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "levels": [
     {
       "id": "garden-007",
@@ -1566,6 +1566,342 @@
           "y": 0.191,
           "r": 0.04,
           "hint": "Count the locker door's vent openings."
+        }
+      ]
+    },
+    {
+      "id": "case-006-01",
+      "groupId": "group-006",
+      "groupName": "The Observatory Key",
+      "a": "group-006/case-006-01/a.png",
+      "b": "group-006/case-006-01/b.png",
+      "diffs": [
+        {
+          "x": 0.802,
+          "y": 0.406,
+          "r": 0.03,
+          "hint": "Inspect the ticket machine's narrow opening."
+        },
+        {
+          "x": 0.802,
+          "y": 0.357,
+          "r": 0.03,
+          "hint": "Check the fixing above the slot."
+        },
+        {
+          "x": 0.527,
+          "y": 0.705,
+          "r": 0.03,
+          "hint": "Trace the crescent tag's outer rim."
+        },
+        {
+          "x": 0.463,
+          "y": 0.702,
+          "r": 0.03,
+          "hint": "Study the duffel buckle's middle."
+        },
+        {
+          "x": 0.247,
+          "y": 0.443,
+          "r": 0.03,
+          "hint": "Inspect the cabin latch's free end."
+        },
+        {
+          "x": 0.923,
+          "y": 0.124,
+          "r": 0.03,
+          "hint": "Compare the upper telephone cradle."
+        }
+      ]
+    },
+    {
+      "id": "case-006-02",
+      "groupId": "group-006",
+      "groupName": "The Observatory Key",
+      "a": "group-006/case-006-02/a.png",
+      "b": "group-006/case-006-02/b.png",
+      "diffs": [
+        {
+          "x": 0.142,
+          "y": 0.31,
+          "r": 0.03,
+          "hint": "Count the lamp's narrow light openings."
+        },
+        {
+          "x": 0.115,
+          "y": 0.129,
+          "r": 0.03,
+          "hint": "Check the wooden sign's lower fitting."
+        },
+        {
+          "x": 0.467,
+          "y": 0.688,
+          "r": 0.03,
+          "hint": "Inspect the backpack buckle's center."
+        },
+        {
+          "x": 0.608,
+          "y": 0.616,
+          "r": 0.03,
+          "hint": "Trace the flask's carrying loop."
+        },
+        {
+          "x": 0.792,
+          "y": 0.767,
+          "r": 0.03,
+          "hint": "Count the glove cuff's perforations."
+        },
+        {
+          "x": 0.954,
+          "y": 0.395,
+          "r": 0.03,
+          "hint": "Zoom in on the carabiner's locking sleeve."
+        },
+        {
+          "x": 0.331,
+          "y": 0.306,
+          "r": 0.03,
+          "hint": "Inspect the walking pole's grip."
+        }
+      ]
+    },
+    {
+      "id": "case-006-03",
+      "groupId": "group-006",
+      "groupName": "The Observatory Key",
+      "a": "group-006/case-006-03/a.png",
+      "b": "group-006/case-006-03/b.png",
+      "diffs": [
+        {
+          "x": 0.235,
+          "y": 0.36,
+          "r": 0.03,
+          "hint": "Compare the right gauge's needle."
+        },
+        {
+          "x": 0.139,
+          "y": 0.481,
+          "r": 0.03,
+          "hint": "Inspect the leftmost toggle's tip."
+        },
+        {
+          "x": 0.077,
+          "y": 0.522,
+          "r": 0.03,
+          "hint": "Check the mounting plate's lower-left fixing."
+        },
+        {
+          "x": 0.394,
+          "y": 0.376,
+          "r": 0.03,
+          "hint": "Count the generator's small side vents."
+        },
+        {
+          "x": 0.414,
+          "y": 0.575,
+          "r": 0.03,
+          "hint": "Study the cable connector's collar."
+        },
+        {
+          "x": 0.708,
+          "y": 0.229,
+          "r": 0.03,
+          "hint": "Inspect the key cabinet's little pull."
+        },
+        {
+          "x": 0.676,
+          "y": 0.431,
+          "r": 0.03,
+          "hint": "Trace the safety pin's lower curve."
+        }
+      ]
+    },
+    {
+      "id": "case-006-04",
+      "groupId": "group-006",
+      "groupName": "The Observatory Key",
+      "a": "group-006/case-006-04/a.png",
+      "b": "group-006/case-006-04/b.png",
+      "diffs": [
+        {
+          "x": 0.462,
+          "y": 0.699,
+          "r": 0.03,
+          "hint": "Compare the mirror clip's two fixings."
+        },
+        {
+          "x": 0.502,
+          "y": 0.86,
+          "r": 0.03,
+          "hint": "Inspect the handwheel's brass center."
+        },
+        {
+          "x": 0.85,
+          "y": 0.765,
+          "r": 0.03,
+          "hint": "Trace the middle spanner's lower opening."
+        },
+        {
+          "x": 0.887,
+          "y": 0.274,
+          "r": 0.03,
+          "hint": "Study the cabinet pull's inner space."
+        },
+        {
+          "x": 0.793,
+          "y": 0.892,
+          "r": 0.03,
+          "hint": "Check the travel pin's ring near its top."
+        }
+      ]
+    },
+    {
+      "id": "case-006-05",
+      "groupId": "group-006",
+      "groupName": "The Observatory Key",
+      "a": "group-006/case-006-05/a.png",
+      "b": "group-006/case-006-05/b.png",
+      "diffs": [
+        {
+          "x": 0.515,
+          "y": 0.133,
+          "r": 0.03,
+          "hint": "Count the regulator dial's index marks."
+        },
+        {
+          "x": 0.59,
+          "y": 0.498,
+          "r": 0.03,
+          "hint": "Follow the inspection hatch's brass divider."
+        },
+        {
+          "x": 0.268,
+          "y": 0.574,
+          "r": 0.03,
+          "hint": "Zoom in on the pendulum adjustment nut."
+        },
+        {
+          "x": 0.88,
+          "y": 0.789,
+          "r": 0.03,
+          "hint": "Inspect the handrail finial's middle."
+        }
+      ]
+    },
+    {
+      "id": "case-006-06",
+      "groupId": "group-006",
+      "groupName": "The Observatory Key",
+      "a": "group-006/case-006-06/a.png",
+      "b": "group-006/case-006-06/b.png",
+      "diffs": [
+        {
+          "x": 0.237,
+          "y": 0.261,
+          "r": 0.03,
+          "hint": "Look through the weather vane's tail."
+        },
+        {
+          "x": 0.486,
+          "y": 0.652,
+          "r": 0.03,
+          "hint": "Count the barometer's dark markers."
+        },
+        {
+          "x": 0.203,
+          "y": 0.751,
+          "r": 0.03,
+          "hint": "Compare the sensor's middle vent."
+        },
+        {
+          "x": 0.835,
+          "y": 0.879,
+          "r": 0.03,
+          "hint": "Inspect the hatch lock's key opening."
+        }
+      ]
+    },
+    {
+      "id": "case-006-07",
+      "groupId": "group-006",
+      "groupName": "The Observatory Key",
+      "a": "group-006/case-006-07/a.png",
+      "b": "group-006/case-006-07/b.png",
+      "diffs": [
+        {
+          "x": 0.832,
+          "y": 0.508,
+          "r": 0.03,
+          "hint": "Compare the stop button's two mounting points."
+        },
+        {
+          "x": 0.503,
+          "y": 0.879,
+          "r": 0.03,
+          "hint": "Trace the lever pin's lower ring."
+        },
+        {
+          "x": 0.931,
+          "y": 0.739,
+          "r": 0.03,
+          "hint": "Compare the third vent's right end."
+        },
+        {
+          "x": 0.245,
+          "y": 0.857,
+          "r": 0.03,
+          "hint": "Check the dial bezel's lowest fixing."
+        }
+      ]
+    },
+    {
+      "id": "case-006-08",
+      "groupId": "group-006",
+      "groupName": "The Observatory Key",
+      "a": "group-006/case-006-08/a.png",
+      "b": "group-006/case-006-08/b.png",
+      "diffs": [
+        {
+          "x": 0.859,
+          "y": 0.86,
+          "r": 0.03,
+          "hint": "Count the recovered key's teeth."
+        },
+        {
+          "x": 0.177,
+          "y": 0.624,
+          "r": 0.03,
+          "hint": "Count the eyepiece barrel's thin bands."
+        },
+        {
+          "x": 0.366,
+          "y": 0.692,
+          "r": 0.03,
+          "hint": "Inspect the focuser wheel's center."
+        },
+        {
+          "x": 0.494,
+          "y": 0.269,
+          "r": 0.03,
+          "hint": "Compare the finder scope's two fittings."
+        },
+        {
+          "x": 0.424,
+          "y": 0.826,
+          "r": 0.03,
+          "hint": "Count the mount dial's index marks."
+        },
+        {
+          "x": 0.943,
+          "y": 0.469,
+          "r": 0.03,
+          "hint": "Inspect the handrail finial's equator."
+        },
+        {
+          "x": 0.157,
+          "y": 0.365,
+          "r": 0.03,
+          "hint": "Study the service-hatch pull's center."
         }
       ]
     }
