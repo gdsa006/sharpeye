@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "levels": [
     {
       "id": "garden-007",
@@ -1902,6 +1902,393 @@
           "y": 0.365,
           "r": 0.03,
           "hint": "Study the service-hatch pull's center."
+        }
+      ]
+    },
+    {
+      "id": "case-007-01",
+      "groupId": "group-007",
+      "groupName": "The Vanishing Peacock",
+      "a": "group-007/case-007-01/a.png",
+      "b": "group-007/case-007-01/b.png",
+      "diffs": [
+        {
+          "x": 0.765,
+          "y": 0.448,
+          "r": 0.03,
+          "hint": "Inspect the coat cuff."
+        },
+        {
+          "x": 0.402,
+          "y": 0.667,
+          "r": 0.03,
+          "hint": "Follow the tassel beads."
+        },
+        {
+          "x": 0.486,
+          "y": 0.607,
+          "r": 0.03,
+          "hint": "Study the lowest tail eye."
+        },
+        {
+          "x": 0.474,
+          "y": 0.282,
+          "r": 0.03,
+          "hint": "Count the crest tips."
+        },
+        {
+          "x": 0.092,
+          "y": 0.195,
+          "r": 0.03,
+          "hint": "Examine the hat band."
+        },
+        {
+          "x": 0.885,
+          "y": 0.803,
+          "r": 0.03,
+          "hint": "Look closely at the trunk lock."
+        },
+        {
+          "x": 0.677,
+          "y": 0.259,
+          "r": 0.03,
+          "hint": "Check the measuring ribbon end."
+        },
+        {
+          "x": 0.243,
+          "y": 0.447,
+          "r": 0.03,
+          "hint": "Trace the screen's carved leaves."
+        }
+      ]
+    },
+    {
+      "id": "case-007-02",
+      "groupId": "group-007",
+      "groupName": "The Vanishing Peacock",
+      "a": "group-007/case-007-02/a.png",
+      "b": "group-007/case-007-02/b.png",
+      "diffs": [
+        {
+          "x": 0.152,
+          "y": 0.712,
+          "r": 0.03,
+          "hint": "Study the brass post bands."
+        },
+        {
+          "x": 0.864,
+          "y": 0.595,
+          "r": 0.03,
+          "hint": "Follow the rope tassel."
+        },
+        {
+          "x": 0.116,
+          "y": 0.352,
+          "r": 0.03,
+          "hint": "Examine the frame's corner flower."
+        },
+        {
+          "x": 0.556,
+          "y": 0.892,
+          "r": 0.03,
+          "hint": "Look within the pale floor triangle."
+        }
+      ]
+    },
+    {
+      "id": "case-007-03",
+      "groupId": "group-007",
+      "groupName": "The Vanishing Peacock",
+      "a": "group-007/case-007-03/a.png",
+      "b": "group-007/case-007-03/b.png",
+      "diffs": [
+        {
+          "x": 0.728,
+          "y": 0.772,
+          "r": 0.03,
+          "hint": "Count the cloth emblem's points."
+        },
+        {
+          "x": 0.433,
+          "y": 0.835,
+          "r": 0.03,
+          "hint": "Inspect the wheel's center fitting."
+        },
+        {
+          "x": 0.113,
+          "y": 0.426,
+          "r": 0.03,
+          "hint": "Check the van handle mounting."
+        },
+        {
+          "x": 0.89,
+          "y": 0.331,
+          "r": 0.03,
+          "hint": "Study the gate's feather openings."
+        }
+      ]
+    },
+    {
+      "id": "case-007-04",
+      "groupId": "group-007",
+      "groupName": "The Vanishing Peacock",
+      "a": "group-007/case-007-04/a.png",
+      "b": "group-007/case-007-04/b.png",
+      "diffs": [
+        {
+          "x": 0.223,
+          "y": 0.332,
+          "r": 0.03,
+          "hint": "Inspect the bench finial texture."
+        },
+        {
+          "x": 0.188,
+          "y": 0.854,
+          "r": 0.03,
+          "hint": "Study the sack's repair stitches."
+        },
+        {
+          "x": 0.685,
+          "y": 0.58,
+          "r": 0.03,
+          "hint": "Count the leather tab perforations."
+        },
+        {
+          "x": 0.843,
+          "y": 0.18,
+          "r": 0.03,
+          "hint": "Check the parcel scale needle."
+        },
+        {
+          "x": 0.841,
+          "y": 0.424,
+          "r": 0.03,
+          "hint": "Examine the whistle's upper opening."
+        },
+        {
+          "x": 0.899,
+          "y": 0.556,
+          "r": 0.03,
+          "hint": "Study the umbrella collar."
+        },
+        {
+          "x": 0.531,
+          "y": 0.511,
+          "r": 0.03,
+          "hint": "Inspect the trunk clasp tip."
+        }
+      ]
+    },
+    {
+      "id": "case-007-05",
+      "groupId": "group-007",
+      "groupName": "The Vanishing Peacock",
+      "a": "group-007/case-007-05/a.png",
+      "b": "group-007/case-007-05/b.png",
+      "diffs": [
+        {
+          "x": 0.237,
+          "y": 0.308,
+          "r": 0.03,
+          "hint": "Count the lantern vents."
+        },
+        {
+          "x": 0.504,
+          "y": 0.358,
+          "r": 0.03,
+          "hint": "Inspect the middle fringe bead."
+        },
+        {
+          "x": 0.912,
+          "y": 0.496,
+          "r": 0.03,
+          "hint": "Trace the cabinet's pearl vine."
+        },
+        {
+          "x": 0.468,
+          "y": 0.919,
+          "r": 0.03,
+          "hint": "Study the bow's right tail."
+        }
+      ]
+    },
+    {
+      "id": "case-007-06",
+      "groupId": "group-007",
+      "groupName": "The Vanishing Peacock",
+      "a": "group-007/case-007-06/a.png",
+      "b": "group-007/case-007-06/b.png",
+      "diffs": [
+        {
+          "x": 0.217,
+          "y": 0.707,
+          "r": 0.03,
+          "hint": "Examine the machine's needle plate."
+        },
+        {
+          "x": 0.442,
+          "y": 0.455,
+          "r": 0.03,
+          "hint": "Trace the hoop's left gold sprig."
+        },
+        {
+          "x": 0.614,
+          "y": 0.806,
+          "r": 0.03,
+          "hint": "Inspect the snips' pivot."
+        },
+        {
+          "x": 0.767,
+          "y": 0.807,
+          "r": 0.03,
+          "hint": "Study the thimble rim."
+        },
+        {
+          "x": 0.873,
+          "y": 0.379,
+          "r": 0.03,
+          "hint": "Check the spool's wooden lip."
+        }
+      ]
+    },
+    {
+      "id": "case-007-07",
+      "groupId": "group-007",
+      "groupName": "The Vanishing Peacock",
+      "a": "group-007/case-007-07/a.png",
+      "b": "group-007/case-007-07/b.png",
+      "diffs": [
+        {
+          "x": 0.333,
+          "y": 0.584,
+          "r": 0.03,
+          "hint": "Count the basket strap holes."
+        },
+        {
+          "x": 0.506,
+          "y": 0.353,
+          "r": 0.03,
+          "hint": "Inspect the bell's center."
+        },
+        {
+          "x": 0.633,
+          "y": 0.428,
+          "r": 0.03,
+          "hint": "Study the handle grip rings."
+        },
+        {
+          "x": 0.742,
+          "y": 0.682,
+          "r": 0.03,
+          "hint": "Trace the box's brass corner."
+        },
+        {
+          "x": 0.125,
+          "y": 0.182,
+          "r": 0.03,
+          "hint": "Follow the lantern's central divider."
+        },
+        {
+          "x": 0.947,
+          "y": 0.454,
+          "r": 0.03,
+          "hint": "Inspect the railing finial."
+        }
+      ]
+    },
+    {
+      "id": "case-007-08",
+      "groupId": "group-007",
+      "groupName": "The Vanishing Peacock",
+      "a": "group-007/case-007-08/a.png",
+      "b": "group-007/case-007-08/b.png",
+      "diffs": [
+        {
+          "x": 0.286,
+          "y": 0.33,
+          "r": 0.03,
+          "hint": "Study the pulley openings."
+        },
+        {
+          "x": 0.211,
+          "y": 0.655,
+          "r": 0.03,
+          "hint": "Follow the red rope binding."
+        },
+        {
+          "x": 0.609,
+          "y": 0.83,
+          "r": 0.03,
+          "hint": "Inspect the trunk clasp tab."
+        },
+        {
+          "x": 0.454,
+          "y": 0.69,
+          "r": 0.03,
+          "hint": "Count the rolled cuff buttons."
+        },
+        {
+          "x": 0.856,
+          "y": 0.624,
+          "r": 0.03,
+          "hint": "Study the pouch emblem."
+        },
+        {
+          "x": 0.941,
+          "y": 0.707,
+          "r": 0.03,
+          "hint": "Check the brass tag's lower edge."
+        },
+        {
+          "x": 0.826,
+          "y": 0.337,
+          "r": 0.03,
+          "hint": "Trace the clevis wire loop."
+        },
+        {
+          "x": 0.201,
+          "y": 0.883,
+          "r": 0.03,
+          "hint": "Inspect the brass sphere."
+        }
+      ]
+    },
+    {
+      "id": "case-007-09",
+      "groupId": "group-007",
+      "groupName": "The Vanishing Peacock",
+      "a": "group-007/case-007-09/a.png",
+      "b": "group-007/case-007-09/b.png",
+      "diffs": [
+        {
+          "x": 0.6,
+          "y": 0.351,
+          "r": 0.03,
+          "hint": "Count the brooch's hanging pearls."
+        },
+        {
+          "x": 0.888,
+          "y": 0.79,
+          "r": 0.03,
+          "hint": "Inspect the nearer slipper buckle."
+        },
+        {
+          "x": 0.126,
+          "y": 0.716,
+          "r": 0.03,
+          "hint": "Study the jewelry case latch."
+        },
+        {
+          "x": 0.479,
+          "y": 0.712,
+          "r": 0.03,
+          "hint": "Follow the left long tassel beads."
+        },
+        {
+          "x": 0.353,
+          "y": 0.79,
+          "r": 0.03,
+          "hint": "Inspect the lowest embroidered eye."
         }
       ]
     }
