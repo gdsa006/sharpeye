@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "levels": [
     {
       "id": "garden-007",
@@ -2586,6 +2586,321 @@
           "y": 0.705,
           "r": 0.03,
           "hint": "Inspect the sash between embroidered leaves."
+        }
+      ]
+    },
+    {
+      "id": "case-009-01",
+      "groupId": "group-009",
+      "groupName": "The Lantern Glass Mystery",
+      "a": "group-009/case-009-01/a.png",
+      "b": "group-009/case-009-01/b.png",
+      "diffs": [
+        {
+          "x": 0.134,
+          "y": 0.5,
+          "r": 0.03,
+          "hint": "Inspect the anchor's right fluke."
+        },
+        {
+          "x": 0.432,
+          "y": 0.502,
+          "r": 0.03,
+          "hint": "Study the prism frame's upper-left screw."
+        },
+        {
+          "x": 0.883,
+          "y": 0.62,
+          "r": 0.03,
+          "hint": "Inspect the case lid's retaining strap."
+        }
+      ]
+    },
+    {
+      "id": "case-009-02",
+      "groupId": "group-009",
+      "groupName": "The Lantern Glass Mystery",
+      "a": "group-009/case-009-02/a.png",
+      "b": "group-009/case-009-02/b.png",
+      "diffs": [
+        {
+          "x": 0.586,
+          "y": 0.151,
+          "r": 0.03,
+          "hint": "Follow the large gear's outer teeth."
+        },
+        {
+          "x": 0.795,
+          "y": 0.461,
+          "r": 0.03,
+          "hint": "Inspect the wooden crank end."
+        },
+        {
+          "x": 0.174,
+          "y": 0.716,
+          "r": 0.03,
+          "hint": "Check the middle lens frame's screw."
+        },
+        {
+          "x": 0.804,
+          "y": 0.686,
+          "r": 0.03,
+          "hint": "Trace the torch's front cage bar."
+        },
+        {
+          "x": 0.696,
+          "y": 0.873,
+          "r": 0.03,
+          "hint": "Inspect the tool-roll buckle."
+        },
+        {
+          "x": 0.633,
+          "y": 0.697,
+          "r": 0.03,
+          "hint": "Follow the navy canvas seam."
+        }
+      ]
+    },
+    {
+      "id": "case-009-03",
+      "groupId": "group-009",
+      "groupName": "The Lantern Glass Mystery",
+      "a": "group-009/case-009-03/a.png",
+      "b": "group-009/case-009-03/b.png",
+      "diffs": [
+        {
+          "x": 0.06,
+          "y": 0.353,
+          "r": 0.03,
+          "hint": "Compare the drain's leftmost slot."
+        },
+        {
+          "x": 0.668,
+          "y": 0.288,
+          "r": 0.03,
+          "hint": "Inspect the mooring plate's lower bolt."
+        },
+        {
+          "x": 0.347,
+          "y": 0.508,
+          "r": 0.03,
+          "hint": "Study the strap buckle's lower edge."
+        },
+        {
+          "x": 0.592,
+          "y": 0.663,
+          "r": 0.03,
+          "hint": "Look closely at the central limpet."
+        },
+        {
+          "x": 0.589,
+          "y": 0.555,
+          "r": 0.03,
+          "hint": "Compare the tall barnacle openings."
+        },
+        {
+          "x": 0.8,
+          "y": 0.379,
+          "r": 0.03,
+          "hint": "Trace the strands of the mooring knot."
+        },
+        {
+          "x": 0.838,
+          "y": 0.58,
+          "r": 0.03,
+          "hint": "Count the nearby seaweed bladders."
+        }
+      ]
+    },
+    {
+      "id": "case-009-04",
+      "groupId": "group-009",
+      "groupName": "The Lantern Glass Mystery",
+      "a": "group-009/case-009-04/a.png",
+      "b": "group-009/case-009-04/b.png",
+      "diffs": [
+        {
+          "x": 0.463,
+          "y": 0.172,
+          "r": 0.03,
+          "hint": "Compare the cream fish's tail openings."
+        },
+        {
+          "x": 0.635,
+          "y": 0.093,
+          "r": 0.03,
+          "hint": "Trace the brass lantern handle."
+        },
+        {
+          "x": 0.402,
+          "y": 0.564,
+          "r": 0.03,
+          "hint": "Inspect the ticket punch pivot."
+        },
+        {
+          "x": 0.548,
+          "y": 0.62,
+          "r": 0.03,
+          "hint": "Study the top ticket near its corner."
+        },
+        {
+          "x": 0.735,
+          "y": 0.909,
+          "r": 0.03,
+          "hint": "Inspect the cart wheel hub."
+        },
+        {
+          "x": 0.488,
+          "y": 0.837,
+          "r": 0.03,
+          "hint": "Follow the blue webbing stitches."
+        },
+        {
+          "x": 0.297,
+          "y": 0.6,
+          "r": 0.03,
+          "hint": "Check the tin lid's upper rim."
+        }
+      ]
+    },
+    {
+      "id": "case-009-05",
+      "groupId": "group-009",
+      "groupName": "The Lantern Glass Mystery",
+      "a": "group-009/case-009-05/a.png",
+      "b": "group-009/case-009-05/b.png",
+      "diffs": [
+        {
+          "x": 0.155,
+          "y": 0.301,
+          "r": 0.03,
+          "hint": "Inspect the scale needle's lower counterweight."
+        },
+        {
+          "x": 0.34,
+          "y": 0.468,
+          "r": 0.03,
+          "hint": "Study the blank tag's lower edge."
+        },
+        {
+          "x": 0.898,
+          "y": 0.39,
+          "r": 0.03,
+          "hint": "Compare the pulley's middle opening."
+        },
+        {
+          "x": 0.727,
+          "y": 0.561,
+          "r": 0.03,
+          "hint": "Follow the glove seam."
+        },
+        {
+          "x": 0.841,
+          "y": 0.522,
+          "r": 0.03,
+          "hint": "Inspect the coat's lower eyelet."
+        },
+        {
+          "x": 0.503,
+          "y": 0.632,
+          "r": 0.03,
+          "hint": "Study the deck lantern's handle."
+        },
+        {
+          "x": 0.645,
+          "y": 0.76,
+          "r": 0.03,
+          "hint": "Inspect the copper anchor's top loop."
+        },
+        {
+          "x": 0.511,
+          "y": 0.421,
+          "r": 0.03,
+          "hint": "Check the padded case clasp."
+        }
+      ]
+    },
+    {
+      "id": "case-009-06",
+      "groupId": "group-009",
+      "groupName": "The Lantern Glass Mystery",
+      "a": "group-009/case-009-06/a.png",
+      "b": "group-009/case-009-06/b.png",
+      "diffs": [
+        {
+          "x": 0.065,
+          "y": 0.24,
+          "r": 0.03,
+          "hint": "Follow the life ring's upper stitching."
+        },
+        {
+          "x": 0.771,
+          "y": 0.369,
+          "r": 0.03,
+          "hint": "Inspect the life jacket's left seam square."
+        },
+        {
+          "x": 0.938,
+          "y": 0.321,
+          "r": 0.03,
+          "hint": "Study the middle cork float."
+        },
+        {
+          "x": 0.691,
+          "y": 0.967,
+          "r": 0.03,
+          "hint": "Inspect the wooden oar tip."
+        },
+        {
+          "x": 0.38,
+          "y": 0.605,
+          "r": 0.03,
+          "hint": "Check the near oarlock mounting."
+        },
+        {
+          "x": 0.798,
+          "y": 0.12,
+          "r": 0.03,
+          "hint": "Trace the small foghorn loop."
+        },
+        {
+          "x": 0.579,
+          "y": 0.552,
+          "r": 0.03,
+          "hint": "Count the wraps on the folded cloth."
+        },
+        {
+          "x": 0.674,
+          "y": 0.554,
+          "r": 0.03,
+          "hint": "Compare the loose brass retainer."
+        }
+      ]
+    },
+    {
+      "id": "case-009-07",
+      "groupId": "group-009",
+      "groupName": "The Lantern Glass Mystery",
+      "a": "group-009/case-009-07/a.png",
+      "b": "group-009/case-009-07/b.png",
+      "diffs": [
+        {
+          "x": 0.185,
+          "y": 0.629,
+          "r": 0.03,
+          "hint": "Inspect the magnifier's silver collar."
+        },
+        {
+          "x": 0.486,
+          "y": 0.373,
+          "r": 0.03,
+          "hint": "Study the middle lid stud."
+        },
+        {
+          "x": 0.839,
+          "y": 0.765,
+          "r": 0.03,
+          "hint": "Follow the pennant's lower hem."
         }
       ]
     }
