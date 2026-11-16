@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "levels": [
     {
       "id": "garden-007",
@@ -2901,6 +2901,354 @@
           "y": 0.765,
           "r": 0.03,
           "hint": "Follow the pennant's lower hem."
+        }
+      ]
+    },
+    {
+      "id": "case-010-01",
+      "groupId": "group-010",
+      "groupName": "The Midnight Pawprint",
+      "a": "group-010/case-010-01/a.png",
+      "b": "group-010/case-010-01/b.png",
+      "diffs": [
+        {
+          "x": 0.932,
+          "y": 0.559,
+          "r": 0.03,
+          "hint": "Compare the lower leaf's natural openings."
+        },
+        {
+          "x": 0.133,
+          "y": 0.372,
+          "r": 0.03,
+          "hint": "Trace the gate's safety loop."
+        },
+        {
+          "x": 0.705,
+          "y": 0.716,
+          "r": 0.03,
+          "hint": "Follow the keeper strap's stitching."
+        },
+        {
+          "x": 0.198,
+          "y": 0.449,
+          "r": 0.03,
+          "hint": "Inspect the carved wooden handle."
+        },
+        {
+          "x": 0.532,
+          "y": 0.611,
+          "r": 0.03,
+          "hint": "Study the presentation-box button."
+        }
+      ]
+    },
+    {
+      "id": "case-010-02",
+      "groupId": "group-010",
+      "groupName": "The Midnight Pawprint",
+      "a": "group-010/case-010-02/a.png",
+      "b": "group-010/case-010-02/b.png",
+      "diffs": [
+        {
+          "x": 0.198,
+          "y": 0.503,
+          "r": 0.03,
+          "hint": "Trace the shell's fine growth ridges."
+        },
+        {
+          "x": 0.312,
+          "y": 0.336,
+          "r": 0.03,
+          "hint": "Inspect the lowest bamboo end."
+        },
+        {
+          "x": 0.55,
+          "y": 0.452,
+          "r": 0.03,
+          "hint": "Compare the feeder's middle opening."
+        },
+        {
+          "x": 0.872,
+          "y": 0.535,
+          "r": 0.03,
+          "hint": "Follow the water dish's front rim."
+        },
+        {
+          "x": 0.611,
+          "y": 0.659,
+          "r": 0.03,
+          "hint": "Compare the barrel's right opening."
+        },
+        {
+          "x": 0.489,
+          "y": 0.659,
+          "r": 0.03,
+          "hint": "Inspect the barrel hoop's fastener."
+        },
+        {
+          "x": 0.941,
+          "y": 0.188,
+          "r": 0.03,
+          "hint": "Study the keeper brush handle."
+        },
+        {
+          "x": 0.69,
+          "y": 0.206,
+          "r": 0.03,
+          "hint": "Trace the basking lamp's lower cage."
+        }
+      ]
+    },
+    {
+      "id": "case-010-03",
+      "groupId": "group-010",
+      "groupName": "The Midnight Pawprint",
+      "a": "group-010/case-010-03/a.png",
+      "b": "group-010/case-010-03/b.png",
+      "diffs": [
+        {
+          "x": 0.735,
+          "y": 0.507,
+          "r": 0.03,
+          "hint": "Compare the lower breast markings."
+        },
+        {
+          "x": 0.47,
+          "y": 0.503,
+          "r": 0.03,
+          "hint": "Study the bootprint's heel blocks."
+        },
+        {
+          "x": 0.322,
+          "y": 0.333,
+          "r": 0.03,
+          "hint": "Follow the little branch's top fork."
+        },
+        {
+          "x": 0.173,
+          "y": 0.428,
+          "r": 0.03,
+          "hint": "Inspect the driftwood's upper knot hole."
+        },
+        {
+          "x": 0.935,
+          "y": 0.447,
+          "r": 0.03,
+          "hint": "Trace the outlet grille's fine mesh."
+        },
+        {
+          "x": 0.855,
+          "y": 0.094,
+          "r": 0.03,
+          "hint": "Inspect the top hatch hinge."
+        },
+        {
+          "x": 0.927,
+          "y": 0.389,
+          "r": 0.03,
+          "hint": "Study the copper outlet's lower lip."
+        },
+        {
+          "x": 0.374,
+          "y": 0.46,
+          "r": 0.03,
+          "hint": "Inspect the striped tab's frayed end."
+        }
+      ]
+    },
+    {
+      "id": "case-010-04",
+      "groupId": "group-010",
+      "groupName": "The Midnight Pawprint",
+      "a": "group-010/case-010-04/a.png",
+      "b": "group-010/case-010-04/b.png",
+      "diffs": [
+        {
+          "x": 0.154,
+          "y": 0.29,
+          "r": 0.03,
+          "hint": "Compare the puzzle wheel's upper opening."
+        },
+        {
+          "x": 0.487,
+          "y": 0.891,
+          "r": 0.03,
+          "hint": "Count the toes in the second large print."
+        },
+        {
+          "x": 0.106,
+          "y": 0.807,
+          "r": 0.03,
+          "hint": "Inspect the broad leaf beside the fern."
+        }
+      ]
+    },
+    {
+      "id": "case-010-05",
+      "groupId": "group-010",
+      "groupName": "The Midnight Pawprint",
+      "a": "group-010/case-010-05/a.png",
+      "b": "group-010/case-010-05/b.png",
+      "diffs": [
+        {
+          "x": 0.476,
+          "y": 0.229,
+          "r": 0.035,
+          "hint": "Look closely among the browsing twigs."
+        },
+        {
+          "x": 0.449,
+          "y": 0.684,
+          "r": 0.03,
+          "hint": "Inspect the hay net's central junction."
+        },
+        {
+          "x": 0.251,
+          "y": 0.381,
+          "r": 0.03,
+          "hint": "Inspect the carry handle's inner edge."
+        },
+        {
+          "x": 0.109,
+          "y": 0.895,
+          "r": 0.03,
+          "hint": "Study the basket's front rim."
+        }
+      ]
+    },
+    {
+      "id": "case-010-06",
+      "groupId": "group-010",
+      "groupName": "The Midnight Pawprint",
+      "a": "group-010/case-010-06/a.png",
+      "b": "group-010/case-010-06/b.png",
+      "diffs": [
+        {
+          "x": 0.127,
+          "y": 0.538,
+          "r": 0.03,
+          "hint": "Inspect the small lower-wing eyespot."
+        },
+        {
+          "x": 0.479,
+          "y": 0.532,
+          "r": 0.03,
+          "hint": "Compare the feeder cap's front perforations."
+        },
+        {
+          "x": 0.538,
+          "y": 0.563,
+          "r": 0.03,
+          "hint": "Look closely at the front orange slice."
+        },
+        {
+          "x": 0.886,
+          "y": 0.342,
+          "r": 0.03,
+          "hint": "Inspect the chrysalis rack's upper rail."
+        },
+        {
+          "x": 0.826,
+          "y": 0.036,
+          "r": 0.03,
+          "hint": "Trace the vent handle's top edge."
+        },
+        {
+          "x": 0.5,
+          "y": 0.678,
+          "r": 0.04,
+          "hint": "Inspect the bindings beneath the feeding stand."
+        },
+        {
+          "x": 0.823,
+          "y": 0.769,
+          "r": 0.03,
+          "hint": "Inspect the watering spout's lip."
+        }
+      ]
+    },
+    {
+      "id": "case-010-07",
+      "groupId": "group-010",
+      "groupName": "The Midnight Pawprint",
+      "a": "group-010/case-010-07/a.png",
+      "b": "group-010/case-010-07/b.png",
+      "diffs": [
+        {
+          "x": 0.349,
+          "y": 0.537,
+          "r": 0.03,
+          "hint": "Compare the enrichment ball's upper opening."
+        },
+        {
+          "x": 0.611,
+          "y": 0.201,
+          "r": 0.03,
+          "hint": "Study the middle bamboo tube's rings."
+        },
+        {
+          "x": 0.864,
+          "y": 0.817,
+          "r": 0.03,
+          "hint": "Count the little valve's spokes."
+        },
+        {
+          "x": 0.694,
+          "y": 0.787,
+          "r": 0.03,
+          "hint": "Inspect the brush's woodgrain."
+        },
+        {
+          "x": 0.114,
+          "y": 0.551,
+          "r": 0.03,
+          "hint": "Inspect the basket's front weave."
+        },
+        {
+          "x": 0.633,
+          "y": 0.465,
+          "r": 0.03,
+          "hint": "Follow the small sprig behind the rack."
+        }
+      ]
+    },
+    {
+      "id": "case-010-08",
+      "groupId": "group-010",
+      "groupName": "The Midnight Pawprint",
+      "a": "group-010/case-010-08/a.png",
+      "b": "group-010/case-010-08/b.png",
+      "diffs": [
+        {
+          "x": 0.547,
+          "y": 0.666,
+          "r": 0.03,
+          "hint": "Inspect the medal's upper rim."
+        },
+        {
+          "x": 0.159,
+          "y": 0.762,
+          "r": 0.03,
+          "hint": "Study the hand drill's wooden grip."
+        },
+        {
+          "x": 0.837,
+          "y": 0.839,
+          "r": 0.03,
+          "hint": "Compare the brush's front bristle tufts."
+        },
+        {
+          "x": 0.797,
+          "y": 0.418,
+          "r": 0.03,
+          "hint": "Inspect the puzzle wheel's top screw."
+        },
+        {
+          "x": 0.396,
+          "y": 0.507,
+          "r": 0.03,
+          "hint": "Follow the keeper bag's leather edge."
         }
       ]
     }
