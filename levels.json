@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "levels": [
     {
       "id": "garden-007",
@@ -3777,6 +3777,153 @@
           "y": 0.687,
           "r": 0.03,
           "hint": "Inspect the nearest right box's locking tab."
+        }
+      ]
+    },
+    {
+      "id": "case-013-01",
+      "groupId": "group-013",
+      "groupName": "The Fresh Label Switch",
+      "a": "group-013/case-013-01/a.png",
+      "b": "group-013/case-013-01/b.png",
+      "diffs": [
+        {
+          "x": 0.666,
+          "y": 0.575,
+          "r": 0.03,
+          "hint": "Read the zucchini shelf label closely."
+        },
+        {
+          "x": 0.173,
+          "y": 0.203,
+          "r": 0.03,
+          "hint": "Inspect the larger radish bunch's paper band."
+        },
+        {
+          "x": 0.869,
+          "y": 0.795,
+          "r": 0.03,
+          "hint": "Study the front orange's stem scar."
+        }
+      ]
+    },
+    {
+      "id": "case-013-02",
+      "groupId": "group-013",
+      "groupName": "The Fresh Label Switch",
+      "a": "group-013/case-013-02/a.png",
+      "b": "group-013/case-013-02/b.png",
+      "diffs": [
+        {
+          "x": 0.572,
+          "y": 0.462,
+          "r": 0.03,
+          "hint": "Compare the nearest strawberry tart's garnish."
+        },
+        {
+          "x": 0.828,
+          "y": 0.678,
+          "r": 0.03,
+          "hint": "Inspect the front chocolate tart's almond tip."
+        },
+        {
+          "x": 0.207,
+          "y": 0.368,
+          "r": 0.03,
+          "hint": "Study the foremost croissant's pointed end."
+        }
+      ]
+    },
+    {
+      "id": "case-013-03",
+      "groupId": "group-013",
+      "groupName": "The Fresh Label Switch",
+      "a": "group-013/case-013-03/a.png",
+      "b": "group-013/case-013-03/b.png",
+      "diffs": [
+        {
+          "x": 0.094,
+          "y": 0.847,
+          "r": 0.03,
+          "hint": "Read the weighing scale's middle decimal figure."
+        },
+        {
+          "x": 0.866,
+          "y": 0.677,
+          "r": 0.03,
+          "hint": "Check the nearest gift box's seal."
+        },
+        {
+          "x": 0.241,
+          "y": 0.527,
+          "r": 0.03,
+          "hint": "Trace the icing on the front dark chocolate."
+        },
+        {
+          "x": 0.637,
+          "y": 0.924,
+          "r": 0.03,
+          "hint": "Compare the scoop handle's openings."
+        },
+        {
+          "x": 0.811,
+          "y": 0.611,
+          "r": 0.03,
+          "hint": "Follow the closest gift box's bow loop."
+        }
+      ]
+    },
+    {
+      "id": "case-013-04",
+      "groupId": "group-013",
+      "groupName": "The Fresh Label Switch",
+      "a": "group-013/case-013-04/a.png",
+      "b": "group-013/case-013-04/b.png",
+      "diffs": [
+        {
+          "x": 0.837,
+          "y": 0.566,
+          "r": 0.03,
+          "hint": "Read the juice shelf's final price figure."
+        },
+        {
+          "x": 0.421,
+          "y": 0.402,
+          "r": 0.03,
+          "hint": "Compare the wooden fork's prong tips."
+        },
+        {
+          "x": 0.667,
+          "y": 0.679,
+          "r": 0.03,
+          "hint": "Trace the yogurt cup's foil edge."
+        }
+      ]
+    },
+    {
+      "id": "case-013-05",
+      "groupId": "group-013",
+      "groupName": "The Fresh Label Switch",
+      "a": "group-013/case-013-05/a.png",
+      "b": "group-013/case-013-05/b.png",
+      "diffs": [
+        {
+          "x": 0.929,
+          "y": 0.187,
+          "r": 0.03,
+          "hint": "Compare the terminal's final total figure."
+        },
+        {
+          "x": 0.448,
+          "y": 0.739,
+          "r": 0.03,
+          "hint": "Read the strawberry punnet's small seal."
+        },
+        {
+          "x": 0.415,
+          "y": 0.335,
+          "r": 0.03,
+          "hint": "Inspect the bread bag's punched opening."
         }
       ]
     }
