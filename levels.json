@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "levels": [
     {
       "id": "garden-007",
@@ -3573,6 +3573,210 @@
           "y": 0.683,
           "r": 0.03,
           "hint": "Study the tin clasp's upper pin."
+        }
+      ]
+    },
+    {
+      "id": "case-012-01",
+      "groupId": "group-012",
+      "groupName": "The False North Lot",
+      "a": "group-012/case-012-01/a.png",
+      "b": "group-012/case-012-01/b.png",
+      "diffs": [
+        {
+          "x": 0.923,
+          "y": 0.282,
+          "r": 0.03,
+          "hint": "Check the stamping counter's final figure."
+        },
+        {
+          "x": 0.572,
+          "y": 0.838,
+          "r": 0.03,
+          "hint": "Study the nearest cup's alignment cut."
+        },
+        {
+          "x": 0.904,
+          "y": 0.833,
+          "r": 0.03,
+          "hint": "Inspect the washer's outer quadrant."
+        }
+      ]
+    },
+    {
+      "id": "case-012-02",
+      "groupId": "group-012",
+      "groupName": "The False North Lot",
+      "a": "group-012/case-012-02/a.png",
+      "b": "group-012/case-012-02/b.png",
+      "diffs": [
+        {
+          "x": 0.932,
+          "y": 0.235,
+          "r": 0.03,
+          "hint": "Read the printer's final display figure."
+        },
+        {
+          "x": 0.284,
+          "y": 0.673,
+          "r": 0.03,
+          "hint": "Compare the nearest dial's lower bearing value."
+        },
+        {
+          "x": 0.875,
+          "y": 0.573,
+          "r": 0.03,
+          "hint": "Check the middle measurement on the carriage scale."
+        },
+        {
+          "x": 0.176,
+          "y": 0.266,
+          "r": 0.03,
+          "hint": "Trace the roller collar's index mark."
+        },
+        {
+          "x": 0.429,
+          "y": 0.754,
+          "r": 0.03,
+          "hint": "Inspect the front alignment pin's grooves."
+        },
+        {
+          "x": 0.147,
+          "y": 0.903,
+          "r": 0.03,
+          "hint": "Compare the paper strip's feed holes."
+        }
+      ]
+    },
+    {
+      "id": "case-012-03",
+      "groupId": "group-012",
+      "groupName": "The False North Lot",
+      "a": "group-012/case-012-03/a.png",
+      "b": "group-012/case-012-03/b.png",
+      "diffs": [
+        {
+          "x": 0.366,
+          "y": 0.67,
+          "r": 0.03,
+          "hint": "Check the lower-left fixture's identification plate."
+        },
+        {
+          "x": 0.517,
+          "y": 0.659,
+          "r": 0.03,
+          "hint": "Inspect the nearest needle's locating mark."
+        },
+        {
+          "x": 0.89,
+          "y": 0.629,
+          "r": 0.03,
+          "hint": "Study the braid's narrow retaining band."
+        }
+      ]
+    },
+    {
+      "id": "case-012-04",
+      "groupId": "group-012",
+      "groupName": "The False North Lot",
+      "a": "group-012/case-012-04/a.png",
+      "b": "group-012/case-012-04/b.png",
+      "diffs": [
+        {
+          "x": 0.934,
+          "y": 0.301,
+          "r": 0.03,
+          "hint": "Read the pressure-cycle timer carefully."
+        },
+        {
+          "x": 0.85,
+          "y": 0.625,
+          "r": 0.03,
+          "hint": "Compare the regulator's central scale figure."
+        },
+        {
+          "x": 0.259,
+          "y": 0.695,
+          "r": 0.03,
+          "hint": "Trace the brass lid's seal channel."
+        },
+        {
+          "x": 0.058,
+          "y": 0.287,
+          "r": 0.03,
+          "hint": "Inspect the perforated shelf's openings."
+        }
+      ]
+    },
+    {
+      "id": "case-012-05",
+      "groupId": "group-012",
+      "groupName": "The False North Lot",
+      "a": "group-012/case-012-05/a.png",
+      "b": "group-012/case-012-05/b.png",
+      "diffs": [
+        {
+          "x": 0.782,
+          "y": 0.291,
+          "r": 0.03,
+          "hint": "Check the micrometer's final decimal place."
+        },
+        {
+          "x": 0.413,
+          "y": 0.612,
+          "r": 0.03,
+          "hint": "Read the dial near its upper-left graduation."
+        },
+        {
+          "x": 0.265,
+          "y": 0.837,
+          "r": 0.03,
+          "hint": "Compare the ruler's third numbered division."
+        },
+        {
+          "x": 0.171,
+          "y": 0.61,
+          "r": 0.03,
+          "hint": "Inspect the dish's front-right bearing."
+        },
+        {
+          "x": 0.983,
+          "y": 0.633,
+          "r": 0.03,
+          "hint": "Follow the chart paper's right feed edge."
+        }
+      ]
+    },
+    {
+      "id": "case-012-06",
+      "groupId": "group-012",
+      "groupName": "The False North Lot",
+      "a": "group-012/case-012-06/a.png",
+      "b": "group-012/case-012-06/b.png",
+      "diffs": [
+        {
+          "x": 0.891,
+          "y": 0.18,
+          "r": 0.03,
+          "hint": "Read the weighing display's final decimal."
+        },
+        {
+          "x": 0.546,
+          "y": 0.901,
+          "r": 0.03,
+          "hint": "Check the carton label's final quantity figure."
+        },
+        {
+          "x": 0.066,
+          "y": 0.925,
+          "r": 0.03,
+          "hint": "Compare the strapping buckle's impressions."
+        },
+        {
+          "x": 0.769,
+          "y": 0.687,
+          "r": 0.03,
+          "hint": "Inspect the nearest right box's locking tab."
         }
       ]
     }
