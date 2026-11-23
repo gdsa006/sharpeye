@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "levels": [
     {
       "id": "garden-007",
@@ -3249,6 +3249,330 @@
           "y": 0.507,
           "r": 0.03,
           "hint": "Follow the keeper bag's leather edge."
+        }
+      ]
+    },
+    {
+      "id": "case-011-01",
+      "groupId": "group-011",
+      "groupName": "The Silent Reel",
+      "a": "group-011/case-011-01/a.png",
+      "b": "group-011/case-011-01/b.png",
+      "diffs": [
+        {
+          "x": 0.415,
+          "y": 0.318,
+          "r": 0.03,
+          "hint": "Inspect the upper spindle arm's tip."
+        },
+        {
+          "x": 0.651,
+          "y": 0.386,
+          "r": 0.03,
+          "hint": "Study the loaded reel's lower fastener."
+        },
+        {
+          "x": 0.643,
+          "y": 0.474,
+          "r": 0.03,
+          "hint": "Trace the paper leader below the reel."
+        },
+        {
+          "x": 0.885,
+          "y": 0.482,
+          "r": 0.03,
+          "hint": "Follow the headphone headband seam."
+        },
+        {
+          "x": 0.152,
+          "y": 0.7548854166666666,
+          "r": 0.03,
+          "hint": "Inspect the transit tin's catch bar."
+        },
+        {
+          "x": 0.351,
+          "y": 0.786,
+          "r": 0.03,
+          "hint": "Compare the cable braid near its entry."
+        },
+        {
+          "x": 0.692,
+          "y": 0.698,
+          "r": 0.03,
+          "hint": "Study the large right knob's index."
+        }
+      ]
+    },
+    {
+      "id": "case-011-02",
+      "groupId": "group-011",
+      "groupName": "The Silent Reel",
+      "a": "group-011/case-011-02/a.png",
+      "b": "group-011/case-011-02/b.png",
+      "diffs": [
+        {
+          "x": 0.484,
+          "y": 0.532,
+          "r": 0.03,
+          "hint": "Trace the insulator's lowest band."
+        },
+        {
+          "x": 0.59,
+          "y": 0.646,
+          "r": 0.03,
+          "hint": "Inspect the coax socket's key recess."
+        },
+        {
+          "x": 0.2351171875,
+          "y": 0.7140208333333333,
+          "r": 0.03,
+          "hint": "Follow the sling's reinforcement stitching."
+        }
+      ]
+    },
+    {
+      "id": "case-011-03",
+      "groupId": "group-011",
+      "groupName": "The Silent Reel",
+      "a": "group-011/case-011-03/a.png",
+      "b": "group-011/case-011-03/b.png",
+      "diffs": [
+        {
+          "x": 0.599,
+          "y": 0.528,
+          "r": 0.03,
+          "hint": "Compare the tape's copper splice bridges."
+        },
+        {
+          "x": 0.725,
+          "y": 0.604,
+          "r": 0.03,
+          "hint": "Inspect the front reel's lowest hub fastener."
+        },
+        {
+          "x": 0.974,
+          "y": 0.199,
+          "r": 0.03,
+          "hint": "Trace the gauge's polished rim."
+        },
+        {
+          "x": 0.063,
+          "y": 0.205,
+          "r": 0.03,
+          "hint": "Study the nearest archive tag's corner."
+        },
+        {
+          "x": 0.876,
+          "y": 0.37,
+          "r": 0.03,
+          "hint": "Follow the upper glove's seam."
+        },
+        {
+          "x": 0.643,
+          "y": 0.891,
+          "r": 0.03,
+          "hint": "Trace the cart's lower wire grid."
+        },
+        {
+          "x": 0.881,
+          "y": 0.718,
+          "r": 0.03,
+          "hint": "Inspect the wooden spacer's long groove."
+        },
+        {
+          "x": 0.532,
+          "y": 0.822,
+          "r": 0.03,
+          "hint": "Study the open tin's rolled front rim."
+        }
+      ]
+    },
+    {
+      "id": "case-011-04",
+      "groupId": "group-011",
+      "groupName": "The Silent Reel",
+      "a": "group-011/case-011-04/a.png",
+      "b": "group-011/case-011-04/b.png",
+      "diffs": [
+        {
+          "x": 0.031,
+          "y": 0.616,
+          "r": 0.03,
+          "hint": "Trace the sheave's retaining wire."
+        },
+        {
+          "x": 0.219,
+          "y": 0.839,
+          "r": 0.03,
+          "hint": "Inspect the woven grounding strap."
+        },
+        {
+          "x": 0.812,
+          "y": 0.679,
+          "r": 0.03,
+          "hint": "Compare the equipment latch's spring ridges."
+        },
+        {
+          "x": 0.925,
+          "y": 0.706,
+          "r": 0.03,
+          "hint": "Follow the packing blanket's cream stripe."
+        },
+        {
+          "x": 0.533046875,
+          "y": 0.5441354166666666,
+          "r": 0.03,
+          "hint": "Inspect the paper leader's little tip."
+        },
+        {
+          "x": 0.5990234375,
+          "y": 0.8264895833333333,
+          "r": 0.03,
+          "hint": "Study the tread pattern in the foreground."
+        },
+        {
+          "x": 0.586,
+          "y": 0.666,
+          "r": 0.03,
+          "hint": "Trace the cabin's lower door seal."
+        }
+      ]
+    },
+    {
+      "id": "case-011-05",
+      "groupId": "group-011",
+      "groupName": "The Silent Reel",
+      "a": "group-011/case-011-05/a.png",
+      "b": "group-011/case-011-05/b.png",
+      "diffs": [
+        {
+          "x": 0.483,
+          "y": 0.595,
+          "r": 0.03,
+          "hint": "Trace the meteorite's intersecting bands."
+        },
+        {
+          "x": 0.843,
+          "y": 0.674,
+          "r": 0.03,
+          "hint": "Inspect the basalt's pale inclusion."
+        },
+        {
+          "x": 0.094,
+          "y": 0.748,
+          "r": 0.03,
+          "hint": "Study the microscope clip's tip."
+        }
+      ]
+    },
+    {
+      "id": "case-011-06",
+      "groupId": "group-011",
+      "groupName": "The Silent Reel",
+      "a": "group-011/case-011-06/a.png",
+      "b": "group-011/case-011-06/b.png",
+      "diffs": [
+        {
+          "x": 0.339,
+          "y": 0.287,
+          "r": 0.03,
+          "hint": "Trace the cabinet vent's fine mesh."
+        },
+        {
+          "x": 0.161,
+          "y": 0.675,
+          "r": 0.03,
+          "hint": "Compare the safety-wire strands."
+        },
+        {
+          "x": 0.469,
+          "y": 0.585,
+          "r": 0.03,
+          "hint": "Study the reflector's central reticle."
+        },
+        {
+          "x": 0.895,
+          "y": 0.634,
+          "r": 0.03,
+          "hint": "Inspect the protruding paper leader."
+        }
+      ]
+    },
+    {
+      "id": "case-011-07",
+      "groupId": "group-011",
+      "groupName": "The Silent Reel",
+      "a": "group-011/case-011-07/a.png",
+      "b": "group-011/case-011-07/b.png",
+      "diffs": [
+        {
+          "x": 0.183,
+          "y": 0.647,
+          "r": 0.03,
+          "hint": "Compare the focus collar's fine ribs."
+        },
+        {
+          "x": 0.096,
+          "y": 0.74,
+          "r": 0.03,
+          "hint": "Trace the lower lens-retaining wire."
+        },
+        {
+          "x": 0.49,
+          "y": 0.284,
+          "r": 0.03,
+          "hint": "Inspect the central lens flange fastener."
+        },
+        {
+          "x": 0.788,
+          "y": 0.349,
+          "r": 0.03,
+          "hint": "Compare the guard's lower perforations."
+        },
+        {
+          "x": 0.789,
+          "y": 0.81,
+          "r": 0.03,
+          "hint": "Trace the paper leader's edge holes."
+        },
+        {
+          "x": 0.619,
+          "y": 0.305,
+          "r": 0.03,
+          "hint": "Follow the service panel's copper wires."
+        }
+      ]
+    },
+    {
+      "id": "case-011-08",
+      "groupId": "group-011",
+      "groupName": "The Silent Reel",
+      "a": "group-011/case-011-08/a.png",
+      "b": "group-011/case-011-08/b.png",
+      "diffs": [
+        {
+          "x": 0.919,
+          "y": 0.742,
+          "r": 0.03,
+          "hint": "Count the headphone jack's insulating bands."
+        },
+        {
+          "x": 0.4440234375,
+          "y": 0.523,
+          "r": 0.03,
+          "hint": "Study the copper splice marker's surface."
+        },
+        {
+          "x": 0.099,
+          "y": 0.895,
+          "r": 0.03,
+          "hint": "Inspect the magnifier grip's fine grooves."
+        },
+        {
+          "x": 0.153,
+          "y": 0.683,
+          "r": 0.03,
+          "hint": "Study the tin clasp's upper pin."
         }
       ]
     }
