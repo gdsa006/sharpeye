@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "levels": [
     {
       "id": "garden-007",
@@ -3924,6 +3924,144 @@
           "y": 0.335,
           "r": 0.03,
           "hint": "Inspect the bread bag's punched opening."
+        }
+      ]
+    },
+    {
+      "id": "case-014-01",
+      "groupId": "group-014",
+      "groupName": "The Carousel Mix-Up",
+      "a": "group-014/case-014-01/a.png",
+      "b": "group-014/case-014-01/b.png",
+      "diffs": [
+        {
+          "x": 0.124,
+          "y": 0.297,
+          "r": 0.03,
+          "hint": "Trace the bottle's carrying loop."
+        },
+        {
+          "x": 0.516,
+          "y": 0.946,
+          "r": 0.03,
+          "hint": "Inspect the luggage tag's lower corner."
+        },
+        {
+          "x": 0.609,
+          "y": 0.867,
+          "r": 0.03,
+          "hint": "Compare the leaf charm's lowest tip."
+        },
+        {
+          "x": 0.906,
+          "y": 0.479,
+          "r": 0.03,
+          "hint": "Study the receipt stub's lower edge."
+        }
+      ]
+    },
+    {
+      "id": "case-014-02",
+      "groupId": "group-014",
+      "groupName": "The Carousel Mix-Up",
+      "a": "group-014/case-014-02/a.png",
+      "b": "group-014/case-014-02/b.png",
+      "diffs": [
+        {
+          "x": 0.108,
+          "y": 0.606,
+          "r": 0.03,
+          "hint": "Compare the earbud case's charging wells."
+        },
+        {
+          "x": 0.435,
+          "y": 0.598,
+          "r": 0.03,
+          "hint": "Follow the bag handle's tan repair stitches."
+        },
+        {
+          "x": 0.159,
+          "y": 0.711,
+          "r": 0.03,
+          "hint": "Read the small boarding stub's final figure."
+        },
+        {
+          "x": 0.483,
+          "y": 0.843,
+          "r": 0.03,
+          "hint": "Inspect the travel wallet's nearest corner."
+        },
+        {
+          "x": 0.908,
+          "y": 0.69,
+          "r": 0.03,
+          "hint": "Compare the poncho's lower snap details."
+        }
+      ]
+    },
+    {
+      "id": "case-014-03",
+      "groupId": "group-014",
+      "groupName": "The Carousel Mix-Up",
+      "a": "group-014/case-014-03/a.png",
+      "b": "group-014/case-014-03/b.png",
+      "diffs": [
+        {
+          "x": 0.432,
+          "y": 0.631,
+          "r": 0.03,
+          "hint": "Check the case tag's final character."
+        },
+        {
+          "x": 0.782,
+          "y": 0.782,
+          "r": 0.03,
+          "hint": "Inspect the wheel chock's handhold."
+        },
+        {
+          "x": 0.272,
+          "y": 0.311,
+          "r": 0.03,
+          "hint": "Trace the hanging hook's lower curve."
+        }
+      ]
+    },
+    {
+      "id": "case-014-04",
+      "groupId": "group-014",
+      "groupName": "The Carousel Mix-Up",
+      "a": "group-014/case-014-04/a.png",
+      "b": "group-014/case-014-04/b.png",
+      "diffs": [
+        {
+          "x": 0.743,
+          "y": 0.067,
+          "r": 0.03,
+          "hint": "Read the carousel sign's final figure."
+        },
+        {
+          "x": 0.694,
+          "y": 0.626,
+          "r": 0.03,
+          "hint": "Compare the glasses' nose bridge."
+        },
+        {
+          "x": 0.32,
+          "y": 0.685,
+          "r": 0.03,
+          "hint": "Inspect the umbrella's strap buckle."
+        },
+        {
+          "x": 0.57,
+          "y": 0.671,
+          "r": 0.03,
+          "hint": "Study the leaf charm's hanging hole."
+        },
+        {
+          "x": 0.759,
+          "y": 0.745,
+          "r": 0.03,
+          "hint": "Inspect the claim ticket's upper corner."
         }
       ]
     }
